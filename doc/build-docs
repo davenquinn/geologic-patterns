@@ -1,0 +1,52 @@
+#!/bin/bash
+# Usage: build-docs [watch]
+#   watch: optionally watch files and reload with browser-sync
+
+# You need pandoc, browserify, browser-sync, coffeescript,
+# and stylus installed (usually globally)
+# to build the HTML documentation.
+
+cmds=( 'pandoc' 'browserify' 'browser-sync' 'coffee')
+for cmd in "${cmds[@]}"; do
+  if ! type "$cmd" > /dev/null; then
+    echo "Please install the command '$cmd' to build docs"
+  fi
+done
+
+do-html() {
+  pandoc --template=skeleton.html -s -o dist/index.html FGDC-documentation.md
+}
+
+do-scripts() {
+  browserify --transform coffeeify --outfile dist/src.js src.coffee
+}
+
+do-styles() {
+  stylus --compress --out dist styles.styl
+}
+
+echo "Copying data to correct folder"
+mkdir -p dist/assets/png
+cp ../assets/png-quant/* dist/assets/png
+cp leader.png dist
+
+$(npm bin)/coffee integrate-data.coffee dist/data.json
+
+if [ "$1" != "watch" ]; then
+  do-html
+  do-scripts
+  do-styles
+  exit
+fi
+
+# Export shell functions to subshells
+export -f do-html do-scripts do-styles
+
+echo "Watching styles"
+# Build styles for web
+ls *.styl | entr bash -c do-styles & \
+ls *.coffee | entr bash -c do-scripts & \
+ls *.md *.html | entr bash -c do-html & \
+cd dist && browser-sync start --server --files "*.*"
+
+

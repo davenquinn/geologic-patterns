@@ -1,0 +1,72 @@
+#!/usr/bin/env python
+
+import re
+import os
+from pathlib import Path
+from PIL import Image
+from PIL.ImageOps import invert
+from subprocess import run
+from shutil import copyfile, make_archive
+from tempfile import TemporaryDirectory
+# Procreate brushes require an inverted image
+
+indir = Path("../assets/png")
+outdir = Path("./build")
+template = Path("./template")
+
+outdir.mkdir(exist_ok=True)
+
+def remove_alpha(image):
+    bkg = Image.new("RGB", image.size, (255, 255, 255))
+    bkg.paste(image, mask=image.split()[3])
+    return bkg
+
+
+for f in indir.iterdir():
+    m = re.fullmatch(r"(\d{3})(-K)?", f.stem)
+    if m is None:
+        continue
+    brushid = m.group(1)
+
+    outfn = f"FGDC pattern {brushid}.brush"
+
+    with TemporaryDirectory() as tempdir:
+        tempdir = Path(tempdir)
+
+        qldir = tempdir/'QuickLook'
+        qldir.mkdir(exist_ok=True, parents=True)
+
+        copyfile(f,qldir/'Thumbnail.png')
+
+        # The "Brush.archive" file is a binary plist file that contains
+        # settings. It should remain constant between brushes, but the
+        # properties of all brushes can be modified in tandem (say,
+        # to change the brush shape) by replacing this file.
+        fn = 'Brush.archive'
+        xml = open(template/fn, 'r').read()
+        xml = xml.replace("TITLE PLACEHOLDER", f"FGDC pattern {brushid}")
+        plist = tempdir/fn
+        with open(plist,'w') as _:
+            _.write(xml)
+        # The `plutil` command only exists on MacOS
+        run(('plutil','-convert','binary1',plist))
+
+        # Brush Grain image needs to be inverted so inked parts
+        # are white.
+        im = Image.open(f)
+        try:
+            im2 = invert(remove_alpha(im))
+        except IndexError:
+            print(f"Couldn't create brush {brushid}")
+            continue
+        im2.save(tempdir/'Grain.png')
+
+        # The `.brush` file is merely a renamed zip archive of the brush directory
+        target = outdir/outfn
+        make_archive(target, 'zip', tempdir)
+        # Correct shutil weirdness
+        (outdir/(outfn+".zip")).rename(target)
+    print(brushid)
+
+make_archive("FGDC geology patterns (Procreate brushes)",'zip','build')
+

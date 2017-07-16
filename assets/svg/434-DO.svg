@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="18.529" height="19.273" viewBox="0 -19.273 18.529 19.273">
+	<g>
+		<rect x="0" y="-19.273" style="fill:none;" width="18.529" height="19.273"/>
+		<rect x="0.004" y="-19.273" width="18.525" height="19.256"/>
+		<rect x="0.004" y="-19.273" style="fill:none;" width="18.525" height="19.256"/>
+		<path style="fill:#FFFFFF;" d="M3.343-19.255c0,0.646,0.525,1.17,1.17,1.17c0.648,0,1.17-0.523,1.17-1.17"/>
+		<path style="fill:#FFFFFF;" d="M3.343-19.255"/>
+		<path style="fill:#FFFFFF;" d="M5.683-19.255"/>
+		<path style="fill:#FFFFFF;" d="M15.116-19.255"/>
+		<path style="fill:#FFFFFF;" d="M12.776-19.255"/>
+		<path style="fill:#FFFFFF;" d="M15.116-19.255c0,0.646-0.525,1.17-1.17,1.17c-0.647,0-1.17-0.523-1.17-1.17"/>
+		<path style="fill:#FFFFFF;" d="M0-15.547"/>
+		<path style="fill:#FFFFFF;" d="M0-17.887"/>
+		<path style="fill:#FFFFFF;" d="M0-15.547c0.647,0,1.17-0.524,1.17-1.17c0-0.646-0.522-1.17-1.17-1.17"/>
+		<path style="fill:#FFFFFF;" d="M18.509-15.547c-0.648,0-1.17-0.524-1.17-1.17c0-0.646,0.522-1.17,1.17-1.17"/>
+		<path style="fill:#FFFFFF;" d="M18.509-15.547"/>
+		<path style="fill:#FFFFFF;" d="M18.509-17.887"/>
+		<path style="fill:#FFFFFF;" d="M0-13.186c0.647,0,1.17,0.524,1.17,1.171c0,0.646-0.522,1.17-1.17,1.17"/>
+		<path style="fill:#FFFFFF;" d="M0-13.186"/>
+		<path style="fill:#FFFFFF;" d="M0-10.845"/>
+		<circle style="fill:#FFFFFF;" cx="4.712" cy="-9.577" r="1.17"/>
+		<circle style="fill:#FFFFFF;" cx="9.263" cy="-7.14" r="1.17"/>
+		<circle style="fill:#FFFFFF;" cx="6.867" cy="-14.54" r="1.17"/>
+		<circle style="fill:#FFFFFF;" cx="11.569" cy="-14.54" r="1.17"/>
+		<circle style="fill:#FFFFFF;" cx="13.796" cy="-9.577" r="1.17"/>
+		<path style="fill:#FFFFFF;" d="M18.509-13.186"/>
+		<path style="fill:#FFFFFF;" d="M18.509-10.845"/>
+		<path style="fill:#FFFFFF;" d="M18.509-13.186c-0.645,0-1.17,0.524-1.17,1.171c0,0.646,0.525,1.17,1.17,1.17"/>
+		<circle style="fill:#FFFFFF;" cx="9.246" cy="-2.438" r="1.17"/>
+		<path style="fill:#FFFFFF;" d="M12.789,0c0-0.646,0.525-1.171,1.17-1.171c0.647,0,1.17,0.524,1.17,1.171"/>
+		<path style="fill:#FFFFFF;" d="M12.789,0"/>
+		<path style="fill:#FFFFFF;" d="M15.129,0"/>
+		<circle style="fill:#FFFFFF;" cx="16.114" cy="-4.963" r="1.17"/>
+		<circle style="fill:#FFFFFF;" cx="2.29" cy="-4.963" r="1.17"/>
+		<path style="fill:#FFFFFF;" d="M5.688,0c0-0.646-0.525-1.171-1.17-1.171c-0.648,0-1.17,0.524-1.17,1.171"/>
+	</g>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "fgdc-pattern-documentation",
+  "version": "1.0.0",
+  "description": "Docs for FGDC patterns",
+  "main": "index.js",
+  "dependencies": {
+    "coffeeify": "^2.1.0",
+    "d3-collection": "^1.0.4",
+    "d3-selection": "^1.1.0",
+    "glob-promise": "^3.1.0",
+    "image-size": "^0.6.0",
+    "js-yaml": "^3.9.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

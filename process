@@ -1,0 +1,22 @@
+#!/usr/bin/env zsh
+
+# npm install --global imagemin-cli stylus browser-sync browserify coffeescript
+# --plugin=pngquant
+./extract-patterns.py
+
+pdir=assets/png
+qdir=${pdir}-quant
+
+mkdir -p $pdir $qdir
+
+for f in assets/svg/*.svg; do
+  fn=${f:t:r}.png
+  out=${pdir}/${fn}
+  cairosvg -f png -s 16 $f > $out
+  ls -hs $out
+
+  quant=$qdir/$fn
+  cat $out | imagemin --plugin=pngquant > $quant
+  ls -hs $quant
+  echo ""
+done

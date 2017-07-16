@@ -1,0 +1,32 @@
+- id: Surficial patterns
+  series: 100
+- id: Sedimentary patterns
+  series: 200
+- id: Igneous patterns
+  series: 300
+- id: Miscellaneous and metamorphic patterns
+  series: 400
+
+- id: Glacial and periglacial pattrns
+  series: 500
+  sections:
+    - id: Glacial patterns
+      range: [521, 524]
+    - id: Periglacial patterns
+      range: [591, 595]
+
+- id: Sedimentary lithology patterns
+  series: 600
+  type: lithology
+  note: Usually reserved for use on stratigraphic columns, sections, or charts
+
+- id: Metamorphic, igneous, and vein-matter lithology patterns
+  series: 700
+  type: lithology
+  note: Usually reserved for use on stratigraphic columns, sections, or charts
+  sections:
+    - id: Metamorphic lithology patterns
+      range: [701, 710]
+    - id: Igneous and vein-matter lithology patterns
+      range: [711, 733]
+
