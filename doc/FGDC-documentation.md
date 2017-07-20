@@ -13,7 +13,7 @@ incorporate FGDC symbology for linework and geologic symbols.
 
 ## Motivation
 
-The FGDC reference reference manual is a masterpiece of cartographic design,
+The FGDC reference manual is a masterpiece of cartographic design,
 and the symbology is unmatched in quality and breadth.
 Patterns are [available](https://pubs.usgs.gov/tm/2006/11A02/) as
 `.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style` file.
@@ -39,9 +39,16 @@ of geologic maps and stratigraphic columns.
 - Ryan Clark's [`geocarto`][geocarto], which
   implements a subset of the FGDC standard focused on linework symbols for
   CartoCSS and Mapnik
+- [Geologic symbols for QGIS](http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
+  from Ryan Mikulovsky.
+- [Planetary geology FGDC symbols](https://github.com/afrigeri/geologic-symbols) from Andrea Nass and Alessandro Frigeri
 - *Taconic Musings'* exploration of [geologic mapping in
   QGIS](http://gmcgeology.blogspot.com/2014/05/creating-geologic-maps-in-qgis-strike.html)
 - UI icon sets such as [Font Awesome](https://font-awesome.io)
+
+There is some overlap between this project and some of the other distillations shown above, but most prior
+compilations feature mostly the linework symbols. These could be added to this distribution, but only if
+a comprehensive set can be brought in at once.
 
 ## Usage
 
