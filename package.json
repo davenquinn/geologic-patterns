@@ -1,5 +1,5 @@
 {
-  "name": "fgdc-geologic-patterns",
+  "name": "geologic-patterns",
   "version": "1.0.0",
   "description": "Geologic pattern swatches based on the FGDC symbology",
   "main": "index.js",
