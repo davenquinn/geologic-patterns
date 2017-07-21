@@ -2,7 +2,7 @@
 
 # npm install --global imagemin-cli stylus browser-sync browserify coffeescript
 # --plugin=pngquant
-./extract-patterns.py
+python extract-patterns.py
 
 pdir=assets/png
 qdir=${pdir}-quant
