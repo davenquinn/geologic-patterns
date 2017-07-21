@@ -6,7 +6,7 @@ assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
 This repository contains the entire FGDC pattern library extracted to
-SVG and PNG, for use on the modern web. This can be paired with libraries of
+SVG and PNG, for use on the modern web. This can be paired with collections of
 linework and geologic symbols for the construction of slick geologic maps and
 stratigraphic columns.
 
@@ -31,7 +31,7 @@ and stratigraphic columns. They can also be dependably read by a
 wide variety of GIS and graphics software, and flexibly incorporated into derived
 packages tailored to specific tasks. Along these lines, this package includes
 a catalog of brushes for the iPad drawing app
-[*Procreate*](https://procreate.art), which supports the sketching
+[*Procreate*][procreate], which supports the sketching
 of geologic maps and stratigraphic columns.
 
 ## Usage
@@ -114,6 +114,7 @@ we could incorporate other symbology into this set.
 
 [fgdc_std]: https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
 [geocarto]: https://github.com/rclark/geocarto
+[procreate]: https://procreate.art
 
 # Pattern reference
 
