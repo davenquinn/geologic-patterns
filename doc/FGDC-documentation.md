@@ -4,11 +4,11 @@ Symbolization][fgdc_std], released in 2006, provides guidance and
 assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
-This repository contains the entire FGDC pattern library extracted to
+This [repository][repository] contains the entire FGDC pattern library extracted to
 SVG and PNG, for use on the modern web. This can be paired with collections of
 linework and geologic symbols for the construction of slick geologic maps and
 stratigraphic columns. There are 480 individual patterns – scroll down
-to the [*pattern reference*](#pattern-reference) below the fold to see
+to the [*pattern reference*][#pattern-reference] below the fold to see
 them all!
 
 ![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
@@ -31,7 +31,7 @@ which can be used on the web, dependably
 read in virtually all GIS and graphics software,
 and flexibly incorporated into derived products for
 specific tasks. Along these lines, this package includes
-a [catalog of brushes](brushes) for the iPad drawing app
+a [catalog of brushes][brushes] for the iPad drawing app
 [*Procreate*][procreate], which supports the sketching
 of geologic maps and stratigraphic columns.
 
@@ -117,6 +117,7 @@ we could incorporate other symbology into this set.
 [geocarto]: https://github.com/rclark/geocarto
 [procreate]: https://procreate.art
 [brushes]: https://github.com/davenquinn/geologic-patterns/releases/latest
+[repository]: https://github.com/davenquinn/geologic-patterns
 
 # Pattern reference
 
