@@ -12,5 +12,11 @@ SVG and PNG, for use on the modern web. This can be paired with collections of
 linework and geologic symbols for the construction of slick geologic maps and
 stratigraphic columns.
 
-See the [**DOCUMENTATION**](http://davenquinn.com/projects/geologic-patterns) for usage and next steps.
+Additionally, I provide the symbols as brushes for the iPad drawing app
+*Procreate*, which can be used for laying out stratigraphic columns.
+
+See the [**DOCUMENTATION**](documentation) for usage and next steps.
+
+[fgdc_std]: https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
+[documentation]: http://davenquinn.com/projects/geologic-patterns
 
