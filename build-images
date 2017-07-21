@@ -1,21 +1,31 @@
 #!/usr/bin/env zsh
 
-# npm install --global imagemin-cli stylus browser-sync browserify coffeescript
-# --plugin=pngquant
-python extract-patterns.py
+# Builds individual svg, uncompressed png, and quantized png images.
 
-pdir=assets/png
-qdir=${pdir}-quant
+cmds=( 'cairosvg' 'imagemin' 'pngquant')
+for cmd in "${cmds[@]}"; do
+  if ! type "$cmd" > /dev/null; then
+    echo "Please install the command '$cmd' to build patterns"
+  fi
+done
+
+svgdir=assets/svg
+outdir=assets/png
+pdir=${outdir}-uncompressed
+
+python extract-patterns.py FGDCgeostdTM11A2_PattCh_cs2_patterns.svg $svgdir
 
 mkdir -p $pdir $qdir
 
-for f in assets/svg/*.svg; do
+for f in $svgdir/*.svg; do
   fn=${f:t:r}.png
   out=${pdir}/${fn}
+  # Build pngs
   cairosvg -f png -s 16 $f > $out
   ls -hs $out
 
-  quant=$qdir/$fn
+  # Build paletted pngs for smaller file size
+  quant=$outdir/$fn
   cat $out | imagemin --plugin=pngquant > $quant
   ls -hs $quant
   echo ""

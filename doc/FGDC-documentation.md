@@ -6,8 +6,9 @@ assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
 This repository contains the entire FGDC pattern library extracted to
-SVG and PNG, for use on the modern web. In the future, I hope to
-incorporate FGDC symbology for linework and geologic symbols.
+SVG and PNG, for use on the modern web. This can be paired with libraries of
+linework and geologic symbols for the construction of slick geologic maps and
+stratigraphic columns.
 
 ![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
 
@@ -33,27 +34,10 @@ a catalog of brushes for the iPad drawing app
 [*Procreate*](https://procreate.art), which supports the sketching
 of geologic maps and stratigraphic columns.
 
-## Prior art and related projects
-
-- The [FGDC standards](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php), of course!
-- Ryan Clark's [`geocarto`][geocarto], which
-  implements a subset of the FGDC standard focused on linework symbols for
-  CartoCSS and Mapnik
-- [Geologic symbols for QGIS](http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
-  from Ryan Mikulovsky.
-- [Planetary geology FGDC symbols](https://github.com/afrigeri/geologic-symbols) from Andrea Nass and Alessandro Frigeri
-- *Taconic Musings'* exploration of [geologic mapping in
-  QGIS](http://gmcgeology.blogspot.com/2014/05/creating-geologic-maps-in-qgis-strike.html)
-- UI icon sets such as [Font Awesome](https://font-awesome.io)
-
-There is some overlap between this project and some of the other distillations shown above, but most prior
-compilations feature mostly the linework symbols. These could be added to this distribution, but only if
-a comprehensive set can be brought in at once.
-
 ## Usage
 
-The files provided here provide a full representation of the FGDC
-pattern symbology, usable within modern web standards.
+This repository includes the complete set of FGDC
+fill patterns, usable within modern web standards.
 The SVG files are lossless vectors preserving the full
 fidelity of the original patterns, and the PNGs are rasterized versions
 that sacrifice some fidelity for flexibility and ease of use. Paletted PNGs, with
@@ -65,7 +49,18 @@ uses. For some uses, it may be desirable to downsample the images
 somewhat as well.
 
 Images are addressable with the `id` (shown in bold beneath each symbol
-below). For instance, `102-DO.png` or `102-DO.svg` would work.
+below). For instance, `102-DO.png` or `102-DO.svg` would work. These patterns form
+seamless repeating backgrounds using CSS (both within HTML and SVG):
+
+```css
+div.sandstone {
+  background: url('assets/png/102-DO.png');
+  background-size: 100px 100px;
+}
+```
+
+In the future I may add a CSS stylesheet and/or Javascript API that can be used to quickly
+use the symbols based on common lithology names.
 
 ### Procreate brushes
 
@@ -80,6 +75,23 @@ limitations:
   **Grain** panel of the brush properties window.
 - The brushes can only be generated on MacOS, due to the platform-specific
   `plutil` executable.
+
+## Prior art and related projects
+
+- The [FGDC standards](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php), of course!
+- Ryan Clark's [`geocarto`][geocarto], which
+  implements a subset of the FGDC standard focused on linework symbols for
+  CartoCSS and Mapnik
+- [Geologic symbols for QGIS](http://geo.distortions.net/2010/12/geologic-symbology-for-qgis.html)
+  from Ryan Mikulovsky.
+- [Planetary geology FGDC symbols](https://github.com/afrigeri/geologic-symbols) from Andrea Nass and Alessandro Frigeri
+- *Taconic Musings'* exploration of [geologic mapping in
+  QGIS](http://gmcgeology.blogspot.com/2014/05/creating-geologic-maps-in-qgis-strike.html)
+- UI icon sets such as [Font Awesome](https://font-awesome.io)
+
+There is some overlap between this project and other distillations shown above, but most prior
+compilations are focused on linework symbols. It could be useful to bring some of these under the same umbrella for simplicity,
+or have a separate parallel repository that is the canonical source of linework symbology.
 
 ## Next steps
 

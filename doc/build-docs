@@ -27,7 +27,7 @@ do-styles() {
 
 echo "Copying data to correct folder"
 mkdir -p dist/assets/png
-cp ../assets/png-quant/* dist/assets/png
+cp ../assets/png/* dist/assets/png
 cp leader.png dist
 
 $(npm bin)/coffee integrate-data.coffee dist/data.json

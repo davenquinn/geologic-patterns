@@ -2,8 +2,7 @@
 
 import re
 from pathlib import Path
-
-fn = 'FGDCgeostdTM11A2_PattCh_cs2_patterns.svg'
+from sys import argv
 
 deletions = [
     ' style="overflow:visible;"',
@@ -26,10 +25,10 @@ def update_first_line(line):
 
     return id, line
 
-outdir = Path("assets/svg")
+outdir = Path(argv[2])
 outdir.mkdir(exist_ok=True, parents=True)
 
-with open(fn,'r') as f:
+with open(argv[1],'r') as f:
     active_file = None
     for line in f:
         if re.match(r"<pattern", line):
