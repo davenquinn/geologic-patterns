@@ -15,9 +15,9 @@ read = (d)->readFileSync d, 'utf8'
 
 imageSize = (im)->
   new Promise (res)->
-    sz = sizeOf im, (e,d)->res(d)
-    delete sz.type
-    return sz
+    sizeOf im, (e,sz)->
+      delete sz.type
+      res(sz)
 
 do ->
 

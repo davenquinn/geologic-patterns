@@ -1,8 +1,19 @@
 {select} = require 'd3-selection'
 {json} = require 'd3-request'
 {nest} = require 'd3-collection'
+{throttle} = require 'underscore'
 
 scalar = 5
+scrollPadding = 200
+
+loadBackgroundIfVisible = (name)->
+  return if @style.backgroundImage
+  {bottom,right, top, left} =  @getBoundingClientRect()
+  return unless bottom >= 0
+  return unless right >= 0
+  return unless top <= (window.innerHeight+scrollPadding or document.documentElement.clientHeight)
+  return unless left <= (window.innerWidth or document.documentElement.clientWidth)
+  @style.backgroundImage = "url('assets/png/#{name}.png')"
 
 createAssetCatalog = (d)->
   console.log "Creating asset catalog"
@@ -16,11 +27,12 @@ createAssetCatalog = (d)->
     .each createAsset
 
 createAsset = (d)->
+  # Don't set up background image right yet
   el = select @
   el.attr 'class','asset'
   el.append 'div'
+    .datum d.name
     .attr 'class', 'swatch'
-    .style 'background-image', "url(assets/png/#{d.name}.png)"
     .style 'background-size', "#{d.size.width/scalar}px #{d.size.height/scalar}px"
   h = el.append 'div'
     .attr 'class','info'
@@ -50,11 +62,14 @@ processSections = (sections, assets)->
 
 createSection = (level)->(d)->
   el = select @
+
   h = el.append 'div'
     .attr 'class', 'body-text'
   h.append "h#{level+1}"
     .text d.id
   if d.series?
+    el.attr 'id', "series-#{d.series}"
+
     h.append 'p'
       .attr 'class', 'series'
       .text "Series #{d.series}"
@@ -81,9 +96,21 @@ createSymbols = (data)->
   assets.forEach (d)->d.key = parseInt d.key
 
   sections = processSections data.structure, assets
-  console.log sections
 
-  sel = select "#patterns"
+  console.log sections
+  ## Create TOC ##
+  ul = select "ul#contents"
+    .selectAll 'li'
+    .data sections
+    .enter()
+    .append 'li'
+    .append 'a'
+      .attr 'href', (d)->"#series-#{d.series}"
+      .text (d)->d.id.slice 0, d.id.length-" patterns".length
+
+  root = select "#patterns"
+
+  sel = root
     .selectAll 'div.section'
     .data sections
 
@@ -92,4 +119,17 @@ createSymbols = (data)->
     .attr 'class', 'section'
     .each createSection(1)
 
+  loadBackgrounds = ->
+    console.log "Loading swatches"
+    root.selectAll 'div.swatch'
+      .each loadBackgroundIfVisible
+
+  loadBackgrounds()
+
+  listener = throttle loadBackgrounds, 200, leading: false
+
+  window.addEventListener('scroll', listener)
+  window.addEventListener('resize', listener)
+
 json 'data.json', createSymbols
+

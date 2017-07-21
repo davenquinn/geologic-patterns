@@ -10,6 +10,11 @@
 </head>
 <body>
   <div id="main">
+    $if(toc)$
+    <div id="TOC">
+    $toc$
+    </div>
+    $endif$
     <div id="header">
       <h1 class='title'>FGDC geologic patterns for the web</h1>
       <p class='author-date'>
@@ -17,11 +22,6 @@
         <span class='date'>July 15, 2017</span>
       </p>
     </div>
-    $if(toc)$
-    <div id="TOC">
-    $toc$
-    </div>
-    $endif$
     $body$
   </div>
 <script src="src.js" type="text/javascript"></script>

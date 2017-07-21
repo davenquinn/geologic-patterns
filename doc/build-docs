@@ -6,7 +6,7 @@
 # and stylus installed (usually globally)
 # to build the HTML documentation.
 
-cmds=( 'pandoc' 'browserify' 'browser-sync' 'coffee')
+cmds=( 'pandoc' 'browserify' 'browser-sync')
 for cmd in "${cmds[@]}"; do
   if ! type "$cmd" > /dev/null; then
     echo "Please install the command '$cmd' to build docs"

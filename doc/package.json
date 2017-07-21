@@ -5,11 +5,13 @@
   "main": "index.js",
   "dependencies": {
     "coffeeify": "^2.1.0",
+    "coffeescript": "^2.0.0-beta3",
     "d3-collection": "^1.0.4",
     "d3-selection": "^1.1.0",
     "glob-promise": "^3.1.0",
     "image-size": "^0.6.0",
-    "js-yaml": "^3.9.0"
+    "js-yaml": "^3.9.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "author": "",

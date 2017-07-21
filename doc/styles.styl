@@ -2,7 +2,7 @@
   font-family: "Helvetica Neue", Helvetica, sans-serif
   box-sizing: border-box
 
-p, ul
+p, ul, code
   font-size: 1.2rem
 
 ul
@@ -20,18 +20,25 @@ a
   border: 1px solid lighten(dodgerblue, 70%)
   &:visited
     color: darken(dodgerblue,20%)
+  &:hover
+    background: lighten(dodgerblue,50%)
   code
     display: inline
     background: none
     color: inherit
     border: none
 
-code
+code, code span
   font-family: Menlo, Consolas, monospace
   font-size: 0.9em
+
+code
   background: #eee
   border: 1px solid #ddd
   color: #444
+  &.sourceCode
+    padding: 0.4em
+    display: block
 
 #main
   position: relative
@@ -105,3 +112,18 @@ code
       font-size: 0.8em
       margin: 0
       flex-grow: 1
+
+#pattern-reference
+  text-transform: uppercase
+
+ul#contents
+  display: flex
+  flex-flow: row wrap
+  padding: 0
+  list-style: none
+  margin: 0 -0.3em
+  li a
+    display: block
+    border-radius: 0
+    margin: 0.2em 0.3em
+

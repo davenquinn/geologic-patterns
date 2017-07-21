@@ -1,35 +1,36 @@
-<div id="preamble" class='body-text'>
 
-The [**FGDC Digital Cartographic Standard for Geologic Map
-Symbolization**][fgdc_std], released in 2006, provides guidance and
+The [FGDC Digital Cartographic Standard for Geologic Map
+Symbolization][fgdc_std], released in 2006, provides guidance and
 assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
 This repository contains the entire FGDC pattern library extracted to
 SVG and PNG, for use on the modern web. This can be paired with collections of
 linework and geologic symbols for the construction of slick geologic maps and
-stratigraphic columns.
+stratigraphic columns. There are 480 individual patterns – scroll down
+to the [*pattern reference*](#pattern-reference) below the fold to see
+them all!
 
 ![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
 
 ## Motivation
 
-The FGDC reference manual is a masterpiece of cartographic design,
+The FGDC manual is a work of thoughtful cartographic design,
 and the symbology is unmatched in quality and breadth.
 Patterns are [available](https://pubs.usgs.gov/tm/2006/11A02/) as
 `.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style` file.
 
-However, the digital products are difficult to use effectively.
-The data formats provided by the USGS are of limited applicability
-outside of Adobe Illustrator and the ESRI ecosystem, and are
-increasingly dated -- recent
+However, the first-party products are difficult to use effectively.
+The formats provided by the USGS are tied to Adobe Illustrator
+and the ESRI ecosystem, and are increasingly dated -- recent
 versions of Adobe Illustrator CC have difficulty importing pattern
 swatches from the files provided on the FGDC site.
 
-This repackaging of the patterns moves them to modern formats suitable for web-driven maps
-and stratigraphic columns. They can also be dependably read by a
-wide variety of GIS and graphics software, and flexibly incorporated into derived
-packages tailored to specific tasks. Along these lines, this package includes
+Here, the patterns are repackaged into modern formats
+which can be used on the web, dependably
+read in virtually all GIS and graphics software,
+and flexibly incorporated into derived products for
+specific tasks. Along these lines, this package includes
 a [catalog of brushes](brushes) for the iPad drawing app
 [*Procreate*][procreate], which supports the sketching
 of geologic maps and stratigraphic columns.
@@ -76,7 +77,7 @@ limitations:
 - The brushes can only be generated on MacOS, due to the platform-specific
   `plutil` executable.
 
-## Prior art and related projects
+## Prior art
 
 - The [FGDC standards](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php), of course!
 - Ryan Clark's [`geocarto`][geocarto], which
@@ -119,6 +120,8 @@ we could incorporate other symbology into this set.
 
 # Pattern reference
 
-</div>
+## Index
+
+<ul id="contents"></ul>
 
 <div id=patterns></div>
