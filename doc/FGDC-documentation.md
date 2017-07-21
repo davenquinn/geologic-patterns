@@ -30,7 +30,7 @@ This repackaging of the patterns moves them to modern formats suitable for web-d
 and stratigraphic columns. They can also be dependably read by a
 wide variety of GIS and graphics software, and flexibly incorporated into derived
 packages tailored to specific tasks. Along these lines, this package includes
-a catalog of brushes for the iPad drawing app
+a [catalog of brushes](brushes) for the iPad drawing app
 [*Procreate*][procreate], which supports the sketching
 of geologic maps and stratigraphic columns.
 
@@ -101,7 +101,7 @@ mean several things:
 
 - Add aliases to commonly used lithologic patterns
 - Incorporating the linework and point symbology part of the FGDC standards
-  (similar to the [`geocarto`][geocarto] implementation)
+  (similar to the implementations in listed above)
 - Add derived products that can speed adoption of styles on multiple
   platforms
     - QGIS styles
@@ -115,6 +115,7 @@ we could incorporate other symbology into this set.
 [fgdc_std]: https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
 [geocarto]: https://github.com/rclark/geocarto
 [procreate]: https://procreate.art
+[brushes]: https://github.com/davenquinn/geologic-patterns/releases/latest
 
 # Pattern reference
 

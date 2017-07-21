@@ -13,13 +13,14 @@ linework and geologic symbols for the construction of slick geologic maps and
 stratigraphic columns.
 
 Additionally, this package includes
-a catalog of brushes for the iPad drawing app
+a [catalog of brushes](brushes) for the iPad drawing app
 [*Procreate*](procreate), which supports the sketching
-of geologic maps and stratigraphic columns.
+of geologic maps and stratigraphic columns. These can be found on the "Releases" page.
 
-See the [**DOCUMENTATION**](documentation) for usage and next steps.
+See the [**DOCUMENTATION**](documentation) for an index of symbols, usage and next steps.
 
 [fgdc_std]: https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
 [documentation]: http://davenquinn.com/projects/geologic-patterns
 [procreate]: https://procreate.art
+[brushes]: https://github.com/davenquinn/geologic-patterns/releases/latest
 
