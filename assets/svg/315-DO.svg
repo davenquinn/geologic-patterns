@@ -1,31 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="25.199" height="25.2" viewBox="2.124 -27.4 25.199 25.2">
-	<g>
-		<rect x="2.124" y="-27.4" style="fill:none;" width="25.199" height="25.2"/>
-		<rect x="2.124" y="-27.4" width="25.199" height="25.2"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="13.719" y1="-21.588" x2="18.556" y2="-22.055"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="13.915" y1="-20.025" x2="18.751" y2="-20.491"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="18.103" y1="-27.4" x2="17.431" y2="-24.713"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="19.726" y1="-27.4" x2="18.97" y2="-24.375"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="23.591" y1="-22.739" x2="25.841" y2="-27.047"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="25.007" y1="-22.051" x2="27.258" y2="-26.356"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="6.303" y1="-21.527" x2="9.66" y2="-25.041"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="7.473" y1="-20.472" x2="10.83" y2="-23.985"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="3.853" y1="-16.552" x2="2.2" y2="-21.122"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="3.666" y1="-21.699" x2="5.318" y2="-17.13"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="15.238" y1="-14.09" x2="10.517" y2="-15.247"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="15.568" y1="-15.63" x2="10.849" y2="-16.787"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="21.985" y1="-17.292" x2="21.025" y2="-12.527"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="22.578" y1="-12.261" x2="23.538" y2="-17.024"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="25.737" y1="-5.39" x2="21.547" y2="-7.854"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="22.308" y1="-9.234" x2="26.496" y2="-6.771"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="18.61" y1="-4.979" x2="18.059" y2="-2.2"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="20.164" y1="-4.717" x2="19.665" y2="-2.2"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="16.86" y1="-9.792" x2="12.747" y2="-7.203"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="17.737" y1="-8.482" x2="13.624" y2="-5.894"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="8.035" y1="-13.114" x2="3.622" y2="-11.078"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="8.735" y1="-11.703" x2="4.323" y2="-9.667"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="7.586" y1="-2.959" x2="5.285" y2="-7.239"/>
-		<line style="fill:none;stroke:#FFFFFF;stroke-width:0.6;" x1="6.651" y1="-8.024" x2="8.951" y2="-3.744"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25.199" height="25.2">
+  <defs>
+    <path id="a" d="M0 0h25.2v25.2H0z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <path d="M0 0h25.2v25.2H0z" clip-path="url(#b)"/>
+  <path fill="none" stroke="#fff" stroke-width=".6" d="M11.6 5.8l4.83-.45M11.8 7.38l4.83-.47M15.98 0l-.67 2.7M17.6 0l-.75 3.02M21.47 4.66l2.25-4.3M22.88 5.35l2.25-4.3M4.18 5.87l3.36-3.5M5.35 6.93l3.36-3.5M1.73 10.85L.08 6.28M1.54 5.7l1.65 4.57M13.1 13.3l-4.7-1.15M13.44 11.77l-4.7-1.16M19.86 10.1l-.96 4.77M20.45 15.14l.96-4.76M23.6 22l-4.18-2.45M20.18 18.17l4.2 2.46M16.5 22.42l-.56 2.78M18.04 22.68l-.5 2.52M14.74 17.6l-4.12 2.6M15.6 18.92l-4.1 2.6M5.9 14.3L1.5 16.3M6.6 15.7l-4.4 2.03M5.46 24.44l-2.3-4.28M4.53 19.38l2.3 4.28" clip-path="url(#b)"/>
 </svg>

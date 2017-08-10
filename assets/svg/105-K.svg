@@ -1,348 +1,341 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="39.737" height="39.737" viewBox="1.315 -41.031 39.737 39.737">
-	<g>
-		<rect x="1.315" y="-41.031" style="fill:none;" width="39.737" height="39.737"/>
-		<circle cx="4.646" cy="-39.713" r="0.557"/>
-		<circle cx="4.646" cy="-35.807" r="0.557"/>
-		<path d="M1.334-38.344c0.308,0,0.557-0.249,0.557-0.557c0-0.308-0.249-0.557-0.557-0.557"/>
-		<circle cx="7.932" cy="-38.901" r="0.557"/>
-		<circle cx="7.932" cy="-36.624" r="0.557"/>
-		<path d="M1.308-36.067c0.308,0,0.557-0.25,0.557-0.557c0-0.308-0.249-0.557-0.557-0.557"/>
-		<circle cx="5.865" cy="-37.713" r="0.557"/>
-		<circle cx="3.365" cy="-37.713" r="0.557"/>
-		<path d="M6.125-41.032c0,0.308,0.249,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="6.682" cy="-34.436" r="0.557"/>
-		<path d="M2.062-41.029c0,0.308,0.25,0.558,0.557,0.558s0.557-0.25,0.557-0.558"/>
-		<circle cx="2.619" cy="-34.432" r="0.557"/>
-		<circle cx="11.271" cy="-39.713" r="0.557"/>
-		<circle cx="11.271" cy="-35.807" r="0.557"/>
-		<circle cx="14.557" cy="-38.901" r="0.557"/>
-		<circle cx="14.557" cy="-36.624" r="0.557"/>
-		<circle cx="7.932" cy="-36.624" r="0.557"/>
-		<circle cx="12.49" cy="-37.713" r="0.557"/>
-		<circle cx="9.99" cy="-37.713" r="0.557"/>
-		<path d="M12.75-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="13.307" cy="-34.436" r="0.557"/>
-		<path d="M8.688-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="9.245" cy="-34.432" r="0.557"/>
-		<circle cx="17.896" cy="-39.713" r="0.557"/>
-		<circle cx="17.896" cy="-35.807" r="0.557"/>
-		<circle cx="21.182" cy="-38.901" r="0.557"/>
-		<circle cx="21.182" cy="-36.624" r="0.557"/>
-		<circle cx="14.557" cy="-36.624" r="0.557"/>
-		<circle cx="19.115" cy="-37.713" r="0.557"/>
-		<circle cx="16.615" cy="-37.713" r="0.557"/>
-		<path d="M19.375-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="19.932" cy="-34.436" r="0.557"/>
-		<path d="M15.312-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="15.87" cy="-34.432" r="0.557"/>
-		<circle cx="24.521" cy="-39.713" r="0.557"/>
-		<circle cx="24.521" cy="-35.807" r="0.557"/>
-		<circle cx="27.807" cy="-38.901" r="0.557"/>
-		<circle cx="27.807" cy="-36.624" r="0.557"/>
-		<circle cx="21.182" cy="-36.624" r="0.557"/>
-		<circle cx="25.74" cy="-37.713" r="0.557"/>
-		<circle cx="23.24" cy="-37.713" r="0.557"/>
-		<path d="M26-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="26.557" cy="-34.436" r="0.557"/>
-		<path d="M21.938-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="22.494" cy="-34.432" r="0.557"/>
-		<circle cx="31.146" cy="-39.713" r="0.557"/>
-		<circle cx="31.146" cy="-35.807" r="0.557"/>
-		<circle cx="34.432" cy="-38.901" r="0.557"/>
-		<circle cx="34.432" cy="-36.624" r="0.557"/>
-		<circle cx="27.807" cy="-36.624" r="0.557"/>
-		<circle cx="32.365" cy="-37.713" r="0.557"/>
-		<circle cx="29.865" cy="-37.713" r="0.557"/>
-		<path d="M32.625-41.032c0,0.308,0.25,0.557,0.557,0.557c0.308,0,0.557-0.25,0.557-0.557"/>
-		<circle cx="33.182" cy="-34.436" r="0.557"/>
-		<path d="M28.562-41.032c0,0.308,0.25,0.557,0.557,0.557s0.557-0.25,0.557-0.557"/>
-		<circle cx="29.119" cy="-34.432" r="0.557"/>
-		<circle cx="37.771" cy="-39.713" r="0.557"/>
-		<circle cx="37.771" cy="-35.807" r="0.557"/>
-		<path d="M41.057-39.458c-0.308,0-0.557,0.25-0.557,0.557c0,0.308,0.25,0.557,0.557,0.557"/>
-		<path d="M41.057-37.181c-0.308,0-0.557,0.249-0.557,0.557c0,0.308,0.25,0.557,0.557,0.557"/>
-		<circle cx="34.432" cy="-36.624" r="0.557"/>
-		<circle cx="38.99" cy="-37.713" r="0.557"/>
-		<circle cx="36.49" cy="-37.713" r="0.557"/>
-		<path d="M39.25-41.032c0,0.308,0.25,0.557,0.557,0.557c0.308,0,0.557-0.25,0.557-0.557"/>
-		<circle cx="39.807" cy="-34.436" r="0.557"/>
-		<path d="M35.188-41.032c0,0.308,0.25,0.557,0.557,0.557c0.308,0,0.557-0.25,0.557-0.557"/>
-		<circle cx="35.744" cy="-34.432" r="0.557"/>
-		<circle cx="4.646" cy="-33.088" r="0.557"/>
-		<circle cx="4.646" cy="-29.182" r="0.557"/>
-		<path d="M1.334-31.719c0.308,0,0.557-0.249,0.557-0.557c0-0.308-0.249-0.557-0.557-0.557"/>
-		<circle cx="7.932" cy="-32.276" r="0.557"/>
-		<circle cx="7.932" cy="-29.999" r="0.557"/>
-		<path d="M1.308-29.442c0.308,0,0.557-0.25,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="5.865" cy="-31.088" r="0.557"/>
-		<circle cx="3.365" cy="-31.088" r="0.557"/>
-		<circle cx="6.682" cy="-27.811" r="0.557"/>
-		<circle cx="2.619" cy="-27.807" r="0.557"/>
-		<circle cx="11.271" cy="-33.088" r="0.557"/>
-		<circle cx="11.271" cy="-29.182" r="0.557"/>
-		<circle cx="14.557" cy="-32.276" r="0.557"/>
-		<circle cx="14.557" cy="-29.999" r="0.557"/>
-		<circle cx="7.932" cy="-29.999" r="0.557"/>
-		<circle cx="12.49" cy="-31.088" r="0.557"/>
-		<circle cx="9.99" cy="-31.088" r="0.557"/>
-		<circle cx="13.307" cy="-27.811" r="0.557"/>
-		<circle cx="9.245" cy="-27.807" r="0.557"/>
-		<circle cx="17.896" cy="-33.088" r="0.557"/>
-		<circle cx="17.896" cy="-29.182" r="0.557"/>
-		<circle cx="21.182" cy="-32.276" r="0.557"/>
-		<circle cx="21.182" cy="-29.999" r="0.557"/>
-		<circle cx="14.557" cy="-29.999" r="0.557"/>
-		<circle cx="19.115" cy="-31.088" r="0.557"/>
-		<circle cx="16.615" cy="-31.088" r="0.557"/>
-		<circle cx="19.932" cy="-27.811" r="0.557"/>
-		<circle cx="15.87" cy="-27.807" r="0.557"/>
-		<circle cx="24.521" cy="-33.088" r="0.557"/>
-		<circle cx="24.521" cy="-29.182" r="0.557"/>
-		<circle cx="27.807" cy="-32.276" r="0.557"/>
-		<circle cx="27.807" cy="-29.999" r="0.557"/>
-		<circle cx="21.182" cy="-29.999" r="0.557"/>
-		<circle cx="25.74" cy="-31.088" r="0.557"/>
-		<circle cx="23.24" cy="-31.088" r="0.557"/>
-		<circle cx="26.557" cy="-27.811" r="0.557"/>
-		<circle cx="22.494" cy="-27.807" r="0.557"/>
-		<circle cx="31.146" cy="-33.088" r="0.557"/>
-		<circle cx="31.146" cy="-29.182" r="0.557"/>
-		<circle cx="34.432" cy="-32.276" r="0.557"/>
-		<circle cx="34.432" cy="-29.999" r="0.557"/>
-		<circle cx="27.807" cy="-29.999" r="0.557"/>
-		<circle cx="32.365" cy="-31.088" r="0.557"/>
-		<circle cx="29.865" cy="-31.088" r="0.557"/>
-		<circle cx="33.182" cy="-27.811" r="0.557"/>
-		<circle cx="29.119" cy="-27.807" r="0.557"/>
-		<circle cx="37.771" cy="-33.088" r="0.557"/>
-		<circle cx="37.771" cy="-29.182" r="0.557"/>
-		<path d="M41.057-32.833c-0.308,0-0.557,0.25-0.557,0.557c0,0.308,0.25,0.557,0.557,0.557"/>
-		<path d="M41.057-30.556c-0.308,0-0.557,0.249-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<circle cx="34.432" cy="-29.999" r="0.557"/>
-		<circle cx="38.99" cy="-31.088" r="0.557"/>
-		<circle cx="36.49" cy="-31.088" r="0.557"/>
-		<circle cx="39.807" cy="-27.811" r="0.557"/>
-		<circle cx="35.744" cy="-27.807" r="0.557"/>
-		<circle cx="4.646" cy="-26.463" r="0.557"/>
-		<circle cx="4.646" cy="-22.557" r="0.557"/>
-		<path d="M1.334-25.094c0.308,0,0.557-0.249,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="7.932" cy="-25.651" r="0.557"/>
-		<circle cx="7.932" cy="-23.374" r="0.557"/>
-		<path d="M1.308-22.817c0.308,0,0.557-0.25,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="5.865" cy="-24.463" r="0.557"/>
-		<circle cx="3.365" cy="-24.463" r="0.557"/>
-		<circle cx="6.682" cy="-21.186" r="0.557"/>
-		<circle cx="2.619" cy="-21.182" r="0.557"/>
-		<circle cx="11.271" cy="-26.463" r="0.557"/>
-		<circle cx="11.271" cy="-22.557" r="0.557"/>
-		<circle cx="14.557" cy="-25.651" r="0.557"/>
-		<circle cx="14.557" cy="-23.374" r="0.557"/>
-		<circle cx="7.932" cy="-23.374" r="0.557"/>
-		<circle cx="12.49" cy="-24.463" r="0.557"/>
-		<circle cx="9.99" cy="-24.463" r="0.557"/>
-		<circle cx="13.307" cy="-21.186" r="0.557"/>
-		<circle cx="9.245" cy="-21.182" r="0.557"/>
-		<circle cx="17.896" cy="-26.463" r="0.557"/>
-		<circle cx="17.896" cy="-22.557" r="0.557"/>
-		<circle cx="21.182" cy="-25.651" r="0.557"/>
-		<circle cx="21.182" cy="-23.374" r="0.557"/>
-		<circle cx="14.557" cy="-23.374" r="0.557"/>
-		<circle cx="19.115" cy="-24.463" r="0.557"/>
-		<circle cx="16.615" cy="-24.463" r="0.557"/>
-		<circle cx="19.932" cy="-21.186" r="0.557"/>
-		<circle cx="15.87" cy="-21.182" r="0.557"/>
-		<circle cx="24.521" cy="-26.463" r="0.557"/>
-		<circle cx="24.521" cy="-22.557" r="0.557"/>
-		<circle cx="27.807" cy="-25.651" r="0.557"/>
-		<circle cx="27.807" cy="-23.374" r="0.557"/>
-		<circle cx="21.182" cy="-23.374" r="0.557"/>
-		<circle cx="25.74" cy="-24.463" r="0.557"/>
-		<circle cx="23.24" cy="-24.463" r="0.557"/>
-		<circle cx="26.557" cy="-21.186" r="0.557"/>
-		<circle cx="22.494" cy="-21.182" r="0.557"/>
-		<circle cx="31.146" cy="-26.463" r="0.557"/>
-		<circle cx="31.146" cy="-22.557" r="0.557"/>
-		<circle cx="34.432" cy="-25.651" r="0.557"/>
-		<circle cx="34.432" cy="-23.374" r="0.557"/>
-		<circle cx="27.807" cy="-23.374" r="0.557"/>
-		<circle cx="32.365" cy="-24.463" r="0.557"/>
-		<circle cx="29.865" cy="-24.463" r="0.557"/>
-		<circle cx="33.182" cy="-21.186" r="0.557"/>
-		<circle cx="29.119" cy="-21.182" r="0.557"/>
-		<circle cx="37.771" cy="-26.463" r="0.557"/>
-		<circle cx="37.771" cy="-22.557" r="0.557"/>
-		<path d="M41.057-26.208c-0.308,0-0.557,0.25-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<path d="M41.057-23.931c-0.308,0-0.557,0.249-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<circle cx="34.432" cy="-23.374" r="0.557"/>
-		<circle cx="38.99" cy="-24.463" r="0.557"/>
-		<circle cx="36.49" cy="-24.463" r="0.557"/>
-		<circle cx="39.807" cy="-21.186" r="0.557"/>
-		<circle cx="35.744" cy="-21.182" r="0.557"/>
-		<circle cx="4.646" cy="-19.838" r="0.557"/>
-		<circle cx="4.646" cy="-15.932" r="0.557"/>
-		<path d="M1.334-18.469c0.308,0,0.557-0.249,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="7.932" cy="-19.026" r="0.557"/>
-		<circle cx="7.932" cy="-16.749" r="0.557"/>
-		<path d="M1.332-16.192c0.308,0,0.557-0.25,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="5.865" cy="-17.838" r="0.557"/>
-		<circle cx="3.365" cy="-17.838" r="0.557"/>
-		<circle cx="6.682" cy="-14.561" r="0.557"/>
-		<circle cx="2.619" cy="-14.557" r="0.557"/>
-		<circle cx="11.271" cy="-19.838" r="0.557"/>
-		<circle cx="11.271" cy="-15.932" r="0.557"/>
-		<circle cx="14.557" cy="-19.026" r="0.557"/>
-		<circle cx="14.557" cy="-16.749" r="0.557"/>
-		<circle cx="7.932" cy="-16.749" r="0.557"/>
-		<circle cx="12.49" cy="-17.838" r="0.557"/>
-		<circle cx="9.99" cy="-17.838" r="0.557"/>
-		<circle cx="13.307" cy="-14.561" r="0.557"/>
-		<circle cx="9.245" cy="-14.557" r="0.557"/>
-		<circle cx="17.896" cy="-19.838" r="0.557"/>
-		<circle cx="17.896" cy="-15.932" r="0.557"/>
-		<circle cx="21.182" cy="-19.026" r="0.557"/>
-		<circle cx="21.182" cy="-16.749" r="0.557"/>
-		<circle cx="14.557" cy="-16.749" r="0.557"/>
-		<circle cx="19.115" cy="-17.838" r="0.557"/>
-		<circle cx="16.615" cy="-17.838" r="0.557"/>
-		<circle cx="19.932" cy="-14.561" r="0.557"/>
-		<circle cx="15.87" cy="-14.557" r="0.557"/>
-		<circle cx="24.521" cy="-19.838" r="0.557"/>
-		<circle cx="24.521" cy="-15.932" r="0.557"/>
-		<circle cx="27.807" cy="-19.026" r="0.557"/>
-		<circle cx="27.807" cy="-16.749" r="0.557"/>
-		<circle cx="21.182" cy="-16.749" r="0.557"/>
-		<circle cx="25.74" cy="-17.838" r="0.557"/>
-		<circle cx="23.24" cy="-17.838" r="0.557"/>
-		<circle cx="26.557" cy="-14.561" r="0.557"/>
-		<circle cx="22.494" cy="-14.557" r="0.557"/>
-		<circle cx="31.146" cy="-19.838" r="0.557"/>
-		<circle cx="31.146" cy="-15.932" r="0.557"/>
-		<circle cx="34.432" cy="-19.026" r="0.557"/>
-		<circle cx="34.432" cy="-16.749" r="0.557"/>
-		<circle cx="27.807" cy="-16.749" r="0.557"/>
-		<circle cx="32.365" cy="-17.838" r="0.557"/>
-		<circle cx="29.865" cy="-17.838" r="0.557"/>
-		<circle cx="33.182" cy="-14.561" r="0.557"/>
-		<circle cx="29.119" cy="-14.557" r="0.557"/>
-		<circle cx="37.771" cy="-19.838" r="0.557"/>
-		<circle cx="37.771" cy="-15.932" r="0.557"/>
-		<path d="M41.057-19.583c-0.308,0-0.557,0.25-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<path d="M41.057-17.306c-0.308,0-0.557,0.249-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<circle cx="34.432" cy="-16.749" r="0.557"/>
-		<circle cx="38.99" cy="-17.838" r="0.557"/>
-		<circle cx="36.49" cy="-17.838" r="0.557"/>
-		<circle cx="39.807" cy="-14.561" r="0.557"/>
-		<circle cx="35.744" cy="-14.557" r="0.557"/>
-		<circle cx="4.646" cy="-13.213" r="0.557"/>
-		<circle cx="4.646" cy="-9.307" r="0.557"/>
-		<path d="M1.334-11.844c0.308,0,0.557-0.249,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="7.932" cy="-12.401" r="0.557"/>
-		<circle cx="7.932" cy="-10.124" r="0.557"/>
-		<path d="M1.308-9.567c0.308,0,0.557-0.249,0.557-0.557s-0.249-0.557-0.557-0.557"/>
-		<circle cx="5.865" cy="-11.213" r="0.557"/>
-		<circle cx="3.365" cy="-11.213" r="0.557"/>
-		<circle cx="6.682" cy="-7.936" r="0.557"/>
-		<circle cx="11.271" cy="-13.213" r="0.557"/>
-		<circle cx="11.271" cy="-9.307" r="0.557"/>
-		<circle cx="14.557" cy="-12.401" r="0.557"/>
-		<circle cx="14.557" cy="-10.124" r="0.557"/>
-		<circle cx="7.932" cy="-10.124" r="0.557"/>
-		<circle cx="12.49" cy="-11.213" r="0.557"/>
-		<circle cx="9.99" cy="-11.213" r="0.557"/>
-		<circle cx="13.307" cy="-7.936" r="0.557"/>
-		<circle cx="9.245" cy="-7.932" r="0.557"/>
-		<circle cx="17.896" cy="-13.213" r="0.557"/>
-		<circle cx="17.896" cy="-9.307" r="0.557"/>
-		<circle cx="21.182" cy="-12.401" r="0.557"/>
-		<circle cx="21.182" cy="-10.124" r="0.557"/>
-		<circle cx="14.557" cy="-10.124" r="0.557"/>
-		<circle cx="19.115" cy="-11.213" r="0.557"/>
-		<circle cx="16.615" cy="-11.213" r="0.557"/>
-		<circle cx="19.932" cy="-7.936" r="0.557"/>
-		<circle cx="24.521" cy="-13.213" r="0.557"/>
-		<circle cx="24.521" cy="-9.307" r="0.557"/>
-		<circle cx="27.807" cy="-12.401" r="0.557"/>
-		<circle cx="27.807" cy="-10.124" r="0.557"/>
-		<circle cx="21.182" cy="-10.124" r="0.557"/>
-		<circle cx="25.74" cy="-11.213" r="0.557"/>
-		<circle cx="23.24" cy="-11.213" r="0.557"/>
-		<circle cx="26.557" cy="-7.936" r="0.557"/>
-		<circle cx="22.494" cy="-7.932" r="0.557"/>
-		<circle cx="31.146" cy="-13.213" r="0.557"/>
-		<circle cx="31.146" cy="-9.307" r="0.557"/>
-		<circle cx="34.432" cy="-12.401" r="0.557"/>
-		<circle cx="34.432" cy="-10.124" r="0.557"/>
-		<circle cx="27.807" cy="-10.124" r="0.557"/>
-		<circle cx="32.365" cy="-11.213" r="0.557"/>
-		<circle cx="29.865" cy="-11.213" r="0.557"/>
-		<circle cx="33.182" cy="-7.936" r="0.557"/>
-		<circle cx="29.119" cy="-7.932" r="0.557"/>
-		<circle cx="37.771" cy="-13.213" r="0.557"/>
-		<circle cx="37.771" cy="-9.307" r="0.557"/>
-		<path d="M41.057-12.958c-0.308,0-0.557,0.25-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<path d="M41.057-10.681c-0.308,0-0.557,0.249-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<circle cx="34.432" cy="-10.124" r="0.557"/>
-		<circle cx="38.99" cy="-11.213" r="0.557"/>
-		<circle cx="36.49" cy="-11.213" r="0.557"/>
-		<circle cx="39.807" cy="-7.936" r="0.557"/>
-		<circle cx="35.744" cy="-7.932" r="0.557"/>
-		<circle cx="4.646" cy="-6.588" r="0.557"/>
-		<circle cx="4.646" cy="-2.682" r="0.557"/>
-		<path d="M1.334-5.219c0.308,0,0.557-0.249,0.557-0.557S1.642-6.332,1.334-6.332"/>
-		<circle cx="7.932" cy="-5.776" r="0.557"/>
-		<circle cx="7.932" cy="-3.499" r="0.557"/>
-		<path d="M1.308-2.942c0.308,0,0.557-0.25,0.557-0.557S1.615-4.056,1.308-4.056"/>
-		<circle cx="5.865" cy="-4.588" r="0.557"/>
-		<circle cx="3.365" cy="-4.588" r="0.557"/>
-		<path d="M7.239-1.312c0-0.307-0.249-0.557-0.557-0.557s-0.557,0.25-0.557,0.557"/>
-		<circle cx="2.619" cy="-7.874" r="0.557"/>
-		<path d="M3.176-1.308c0-0.308-0.249-0.557-0.557-0.557S2.062-1.615,2.062-1.308"/>
-		<circle cx="11.271" cy="-6.588" r="0.557"/>
-		<circle cx="11.271" cy="-2.682" r="0.557"/>
-		<circle cx="14.557" cy="-5.776" r="0.557"/>
-		<circle cx="14.557" cy="-3.499" r="0.557"/>
-		<circle cx="7.932" cy="-3.499" r="0.557"/>
-		<circle cx="12.49" cy="-4.588" r="0.557"/>
-		<circle cx="9.99" cy="-4.588" r="0.557"/>
-		<path d="M13.864-1.312c0-0.307-0.249-0.557-0.557-0.557s-0.557,0.25-0.557,0.557"/>
-		<path d="M9.801-1.308c0-0.308-0.249-0.557-0.557-0.557S8.688-1.615,8.688-1.308"/>
-		<circle cx="17.896" cy="-6.588" r="0.557"/>
-		<circle cx="17.896" cy="-2.682" r="0.557"/>
-		<circle cx="21.182" cy="-5.776" r="0.557"/>
-		<circle cx="21.182" cy="-3.499" r="0.557"/>
-		<circle cx="14.557" cy="-3.499" r="0.557"/>
-		<circle cx="19.115" cy="-4.588" r="0.557"/>
-		<circle cx="16.615" cy="-4.588" r="0.557"/>
-		<path d="M20.489-1.312c0-0.307-0.249-0.557-0.557-0.557s-0.557,0.25-0.557,0.557"/>
-		<circle cx="15.87" cy="-7.874" r="0.557"/>
-		<path d="M16.426-1.308c0-0.308-0.249-0.557-0.557-0.557s-0.557,0.249-0.557,0.557"/>
-		<circle cx="24.521" cy="-6.588" r="0.557"/>
-		<circle cx="24.521" cy="-2.682" r="0.557"/>
-		<circle cx="27.807" cy="-5.776" r="0.557"/>
-		<circle cx="27.807" cy="-3.499" r="0.557"/>
-		<circle cx="21.182" cy="-3.499" r="0.557"/>
-		<circle cx="25.74" cy="-4.588" r="0.557"/>
-		<circle cx="23.24" cy="-4.588" r="0.557"/>
-		<path d="M27.114-1.312c0-0.307-0.249-0.557-0.557-0.557S26-1.619,26-1.312"/>
-		<path d="M23.051-1.308c0-0.308-0.249-0.557-0.557-0.557s-0.557,0.249-0.557,0.557"/>
-		<circle cx="31.146" cy="-6.588" r="0.557"/>
-		<circle cx="31.146" cy="-2.682" r="0.557"/>
-		<circle cx="34.432" cy="-5.776" r="0.557"/>
-		<circle cx="34.432" cy="-3.499" r="0.557"/>
-		<circle cx="27.807" cy="-3.499" r="0.557"/>
-		<circle cx="32.365" cy="-4.588" r="0.557"/>
-		<circle cx="29.865" cy="-4.588" r="0.557"/>
-		<path d="M33.739-1.312c0-0.307-0.249-0.557-0.557-0.557c-0.308,0-0.557,0.25-0.557,0.557"/>
-		<path d="M29.676-1.308c0-0.308-0.249-0.557-0.557-0.557s-0.557,0.249-0.557,0.557"/>
-		<circle cx="37.771" cy="-6.588" r="0.557"/>
-		<circle cx="37.771" cy="-2.682" r="0.557"/>
-		<path d="M41.057-6.332c-0.308,0-0.557,0.249-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<path d="M41.057-4.056c-0.308,0-0.557,0.249-0.557,0.557s0.25,0.557,0.557,0.557"/>
-		<circle cx="34.432" cy="-3.499" r="0.557"/>
-		<circle cx="38.99" cy="-4.588" r="0.557"/>
-		<circle cx="36.49" cy="-4.588" r="0.557"/>
-		<path d="M40.364-1.312c0-0.307-0.249-0.557-0.557-0.557c-0.308,0-0.557,0.25-0.557,0.557"/>
-		<path d="M36.301-1.308c0-0.308-0.249-0.557-0.557-0.557c-0.308,0-0.557,0.249-0.557,0.557"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.736" height="39.737">
+  <defs>
+    <path id="a" d="M0 0h39.74v39.74H0z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <circle cx="3.331" cy="1.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="5.224" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 2.7c.3 0 .56-.26.56-.57s-.25-.56-.56-.56" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="2.131" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <path d="M0 4.96c.3 0 .55-.25.55-.55S.3 3.86 0 3.86" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <path d="M4.8 0c0 .3.26.56.57.56.3 0 .55-.25.55-.56" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="6.595" r=".557" clip-path="url(#b)"/>
+  <path d="M.75 0c0 .3.25.56.56.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="1.305" cy="6.599" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="1.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="5.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="2.131" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <path d="M11.44 0c0 .3.25.56.55.56.3 0 .55-.25.55-.56" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="6.595" r=".557" clip-path="url(#b)"/>
+  <path d="M7.37 0c0 .3.25.56.56.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="7.93" cy="6.599" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="1.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="5.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="2.131" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <path d="M18.06 0c0 .3.25.56.56.56.3 0 .55-.25.55-.56" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="6.595" r=".557" clip-path="url(#b)"/>
+  <path d="M14 0c0 .3.25.56.55.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="14.555" cy="6.599" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="1.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="5.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="2.131" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <path d="M24.68 0c0 .3.25.56.56.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="6.595" r=".557" clip-path="url(#b)"/>
+  <path d="M20.62 0c0 .3.25.56.56.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="21.18" cy="6.599" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="1.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="5.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="2.131" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <path d="M31.3 0c0 .3.26.56.57.56.3 0 .55-.25.55-.56" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="6.595" r=".557" clip-path="url(#b)"/>
+  <path d="M27.25 0c0 .3.25.56.55.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="27.805" cy="6.599" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="1.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="5.224" r=".557" clip-path="url(#b)"/>
+  <path d="M39.74 1.57c-.3 0-.56.25-.56.56s.25.56.56.56M39.74 3.85c-.3 0-.56.25-.56.56s.25.57.56.57" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="4.407" r=".557" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="3.318" r=".557" clip-path="url(#b)"/>
+  <path d="M37.94 0c0 .3.25.56.55.56.3 0 .55-.25.55-.56" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="6.595" r=".557" clip-path="url(#b)"/>
+  <path d="M33.87 0c0 .3.25.56.56.56.3 0 .56-.25.56-.56" clip-path="url(#b)"/>
+  <circle cx="34.43" cy="6.599" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="7.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="11.849" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 9.3c.3 0 .56-.24.56-.54S.33 8.2.02 8.2" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="8.756" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <path d="M0 11.6c.3 0 .55-.26.55-.57s-.25-.55-.56-.55" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="13.22" r=".557" clip-path="url(#b)"/>
+  <circle cx="1.305" cy="13.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="7.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="11.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="8.756" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="13.22" r=".557" clip-path="url(#b)"/>
+  <circle cx="7.93" cy="13.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="7.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="11.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="8.756" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="13.22" r=".557" clip-path="url(#b)"/>
+  <circle cx="14.555" cy="13.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="7.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="11.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="8.756" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="13.22" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.18" cy="13.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="7.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="11.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="8.756" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="13.22" r=".557" clip-path="url(#b)"/>
+  <circle cx="27.805" cy="13.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="7.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="11.849" r=".557" clip-path="url(#b)"/>
+  <path d="M39.74 8.2c-.3 0-.56.25-.56.56s.25.55.56.55M39.74 10.48c-.3 0-.56.25-.56.55s.25.56.56.56" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="11.032" r=".557" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="9.943" r=".557" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="13.22" r=".557" clip-path="url(#b)"/>
+  <circle cx="34.43" cy="13.224" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="14.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="18.474" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 15.94c.3 0 .56-.25.56-.56s-.25-.56-.56-.56" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="15.381" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <path d="M0 18.2c.3 0 .55-.24.55-.54S.3 17.1 0 17.1" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="19.845" r=".557" clip-path="url(#b)"/>
+  <circle cx="1.305" cy="19.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="14.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="18.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="15.381" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="19.845" r=".557" clip-path="url(#b)"/>
+  <circle cx="7.93" cy="19.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="14.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="18.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="15.381" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="19.845" r=".557" clip-path="url(#b)"/>
+  <circle cx="14.555" cy="19.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="14.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="18.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="15.381" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="19.845" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.18" cy="19.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="14.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="18.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="15.381" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="19.845" r=".557" clip-path="url(#b)"/>
+  <circle cx="27.805" cy="19.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="14.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="18.474" r=".557" clip-path="url(#b)"/>
+  <path d="M39.74 14.82c-.3 0-.56.25-.56.56s.25.56.56.56M39.74 17.1c-.3 0-.56.25-.56.56s.25.55.56.55" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="17.657" r=".557" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="16.568" r=".557" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="19.845" r=".557" clip-path="url(#b)"/>
+  <circle cx="34.43" cy="19.849" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="21.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="25.099" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 22.56c.3 0 .56-.25.56-.55s-.25-.55-.56-.55" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="22.006" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 24.84c.3 0 .56-.25.56-.56s-.25-.56-.56-.56" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="26.47" r=".557" clip-path="url(#b)"/>
+  <circle cx="1.305" cy="26.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="21.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="25.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="22.006" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="26.47" r=".557" clip-path="url(#b)"/>
+  <circle cx="7.93" cy="26.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="21.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="25.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="22.006" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="26.47" r=".557" clip-path="url(#b)"/>
+  <circle cx="14.555" cy="26.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="21.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="25.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="22.006" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="26.47" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.18" cy="26.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="21.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="25.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="22.006" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="26.47" r=".557" clip-path="url(#b)"/>
+  <circle cx="27.805" cy="26.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="21.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="25.099" r=".557" clip-path="url(#b)"/>
+  <path d="M39.74 21.45c-.3 0-.56.25-.56.56s.25.56.56.56M39.74 23.73c-.3 0-.56.24-.56.55s.25.56.56.56" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="24.282" r=".557" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="23.193" r=".557" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="26.47" r=".557" clip-path="url(#b)"/>
+  <circle cx="34.43" cy="26.474" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="27.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="31.724" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 29.2c.3 0 .56-.26.56-.57s-.25-.56-.56-.56" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="28.631" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <path d="M0 31.46c.3 0 .55-.25.55-.55s-.25-.55-.56-.55" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="33.095" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="27.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="31.724" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="28.631" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="33.095" r=".557" clip-path="url(#b)"/>
+  <circle cx="7.93" cy="33.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="27.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="31.724" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="28.631" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="33.095" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="27.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="31.724" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="28.631" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="33.095" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.18" cy="33.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="27.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="31.724" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="28.631" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="33.095" r=".557" clip-path="url(#b)"/>
+  <circle cx="27.805" cy="33.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="27.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="31.724" r=".557" clip-path="url(#b)"/>
+  <path d="M39.74 28.07c-.3 0-.56.25-.56.56s.25.56.56.56M39.74 30.35c-.3 0-.56.25-.56.56s.25.56.56.56" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="30.907" r=".557" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="29.818" r=".557" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="33.095" r=".557" clip-path="url(#b)"/>
+  <circle cx="34.43" cy="33.099" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="34.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="38.349" r=".557" clip-path="url(#b)"/>
+  <path d="M.02 35.8c.3 0 .56-.24.56-.54s-.25-.56-.56-.56" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="35.256" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <path d="M0 38.1c.3 0 .55-.26.55-.57s-.25-.55-.56-.55" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <path d="M5.92 39.72c0-.3-.25-.56-.55-.56-.3 0-.56.25-.56.56" clip-path="url(#b)"/>
+  <circle cx="1.305" cy="33.157" r=".557" clip-path="url(#b)"/>
+  <path d="M1.86 39.72c0-.3-.25-.55-.56-.55-.3 0-.55.25-.55.55" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="34.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="38.349" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="35.256" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <path d="M12.55 39.72c0-.3-.25-.56-.56-.56-.32 0-.57.25-.57.56M8.5 39.72c0-.3-.26-.55-.57-.55-.3 0-.56.25-.56.55" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="34.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="38.349" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="35.256" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <path d="M19.17 39.72c0-.3-.25-.56-.55-.56-.3 0-.56.25-.56.56" clip-path="url(#b)"/>
+  <circle cx="14.555" cy="33.157" r=".557" clip-path="url(#b)"/>
+  <path d="M15.1 39.72c0-.3-.24-.55-.55-.55-.3 0-.55.25-.55.55" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="34.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="38.349" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="35.256" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <path d="M25.8 39.72c0-.3-.25-.56-.56-.56-.3 0-.56.25-.56.56M21.74 39.72c0-.3-.25-.55-.56-.55-.3 0-.56.25-.56.55" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="34.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="38.349" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="35.256" r=".557" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <path d="M32.42 39.72c0-.3-.25-.56-.55-.56-.3 0-.56.25-.56.56M28.36 39.72c0-.3-.25-.55-.56-.55-.3 0-.55.25-.55.55" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="34.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="38.349" r=".557" clip-path="url(#b)"/>
+  <path d="M39.74 34.7c-.3 0-.56.25-.56.56s.25.55.56.55M39.74 36.98c-.3 0-.56.25-.56.55s.25.56.56.56" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="37.532" r=".557" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="36.443" r=".557" clip-path="url(#b)"/>
+  <path d="M39.05 39.72c0-.3-.25-.56-.56-.56-.32 0-.57.25-.57.56M35 39.72c0-.3-.26-.55-.57-.55-.3 0-.56.25-.56.55" clip-path="url(#b)"/>
 </svg>

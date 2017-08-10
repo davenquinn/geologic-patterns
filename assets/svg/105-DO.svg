@@ -1,349 +1,342 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="39.737" height="39.737" viewBox="1.004 -40.737 39.737 39.737">
-	<g>
-		<rect x="1.004" y="-40.737" style="fill:none;" width="39.737" height="39.737"/>
-		<rect x="1.004" y="-40.737" width="39.737" height="39.737"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-39.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-35.513" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1-37.999c0.335,0,0.606-0.271,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-37.999z"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-38.606" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-36.329" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.007-35.722c0.335,0,0.607-0.272,0.607-0.607c0-0.335-0.271-0.607-0.607-0.607V-35.722z"/>
-		<circle style="fill:#FFFFFF;" cx="5.553" cy="-37.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="3.053" cy="-37.419" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M5.763-40.738c0,0.335,0.272,0.607,0.607,0.607c0.335,0,0.607-0.272,0.607-0.607H5.763z"/>
-		<circle style="fill:#FFFFFF;" cx="6.37" cy="-34.142" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.701-40.74c0,0.335,0.272,0.608,0.607,0.608c0.336,0,0.607-0.272,0.607-0.608H1.701z"/>
-		<circle style="fill:#FFFFFF;" cx="2.308" cy="-34.138" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-39.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-35.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-38.606" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.178" cy="-37.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="9.678" cy="-37.419" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M12.388-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H12.388z"/>
-		<circle style="fill:#FFFFFF;" cx="12.995" cy="-34.142" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M8.326-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H8.326z"/>
-		<circle style="fill:#FFFFFF;" cx="8.933" cy="-34.138" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-39.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-35.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-38.606" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="18.803" cy="-37.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="16.303" cy="-37.419" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M19.013-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H19.013z"/>
-		<circle style="fill:#FFFFFF;" cx="19.62" cy="-34.142" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M14.951-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H14.951z"/>
-		<circle style="fill:#FFFFFF;" cx="15.558" cy="-34.138" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-39.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-35.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-38.606" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="25.428" cy="-37.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.928" cy="-37.419" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M25.638-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H25.638z"/>
-		<circle style="fill:#FFFFFF;" cx="26.245" cy="-34.142" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M21.576-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H21.576z"/>
-		<circle style="fill:#FFFFFF;" cx="22.183" cy="-34.138" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-39.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-35.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-38.606" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.053" cy="-37.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="29.553" cy="-37.419" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M32.263-40.738c0,0.335,0.272,0.607,0.607,0.607c0.335,0,0.607-0.272,0.607-0.607H32.263z"/>
-		<circle style="fill:#FFFFFF;" cx="32.87" cy="-34.142" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M28.201-40.738c0,0.335,0.272,0.607,0.607,0.607c0.336,0,0.607-0.272,0.607-0.607H28.201z"/>
-		<circle style="fill:#FFFFFF;" cx="28.808" cy="-34.138" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-39.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-35.513" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.741-39.213c-0.335,0-0.607,0.272-0.607,0.607c0,0.335,0.272,0.607,0.607,0.607V-39.213z"/>
-		<path style="fill:#FFFFFF;" d="M40.745-36.937c-0.335,0-0.607,0.271-0.607,0.607c0,0.336,0.272,0.607,0.607,0.607V-36.937z"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-36.329" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="38.678" cy="-37.419" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="36.178" cy="-37.419" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M38.888-40.738c0,0.335,0.272,0.607,0.607,0.607c0.335,0,0.607-0.272,0.607-0.607H38.888z"/>
-		<circle style="fill:#FFFFFF;" cx="39.495" cy="-34.142" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M34.826-40.738c0,0.335,0.272,0.607,0.607,0.607c0.335,0,0.607-0.272,0.607-0.607H34.826z"/>
-		<circle style="fill:#FFFFFF;" cx="35.433" cy="-34.138" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-32.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-28.888" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.002-31.374c0.335,0,0.606-0.271,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-31.374z"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-31.981" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-29.704" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.002-29.097c0.335,0,0.606-0.272,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-29.097z"/>
-		<circle style="fill:#FFFFFF;" cx="5.553" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="3.053" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="6.37" cy="-27.517" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="2.308" cy="-27.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-32.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-28.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-31.981" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.178" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="9.678" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.995" cy="-27.517" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="8.933" cy="-27.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-32.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-28.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-31.981" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="18.803" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="16.303" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="19.62" cy="-27.517" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="15.558" cy="-27.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-32.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-28.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-31.981" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="25.428" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.928" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="26.245" cy="-27.517" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.183" cy="-27.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-32.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-28.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-31.981" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.053" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="29.553" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.87" cy="-27.517" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="28.808" cy="-27.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-32.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-28.888" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.739-32.588c-0.335,0-0.607,0.272-0.607,0.607c0,0.336,0.272,0.607,0.607,0.607V-32.588z"/>
-		<path style="fill:#FFFFFF;" d="M40.75-30.312c-0.335,0-0.607,0.271-0.607,0.607c0,0.335,0.272,0.607,0.607,0.607V-30.312z"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-29.704" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="38.678" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="36.178" cy="-30.794" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="39.495" cy="-27.517" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="35.433" cy="-27.513" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-26.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-22.263" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.002-24.749c0.335,0,0.606-0.271,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-24.749z"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-25.356" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-23.079" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.005-22.472c0.335,0,0.606-0.272,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-22.472z"/>
-		<circle style="fill:#FFFFFF;" cx="5.553" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="3.053" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="6.37" cy="-20.892" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="2.308" cy="-20.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-26.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-22.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-25.356" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.178" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="9.678" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.995" cy="-20.892" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="8.933" cy="-20.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-26.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-22.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-25.356" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="18.803" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="16.303" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="19.62" cy="-20.892" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="15.558" cy="-20.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-26.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-22.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-25.356" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="25.428" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.928" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="26.245" cy="-20.892" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.183" cy="-20.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-26.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-22.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-25.356" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.053" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="29.553" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.87" cy="-20.892" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="28.808" cy="-20.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-26.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-22.263" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.736-25.963c-0.335,0-0.607,0.272-0.607,0.607c0,0.336,0.272,0.607,0.607,0.607V-25.963z"/>
-		<path style="fill:#FFFFFF;" d="M40.736-23.687c-0.335,0-0.607,0.271-0.607,0.607c0,0.335,0.272,0.607,0.607,0.607V-23.687z"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-23.079" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="38.678" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="36.178" cy="-24.169" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="39.495" cy="-20.892" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="35.433" cy="-20.888" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-19.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-15.638" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.001-18.124c0.335,0,0.606-0.271,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-18.124z"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-18.731" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-16.454" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.015-15.847c0.336,0,0.607-0.272,0.607-0.607c0-0.335-0.271-0.607-0.607-0.607V-15.847z"/>
-		<circle style="fill:#FFFFFF;" cx="5.553" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="3.053" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="6.37" cy="-14.267" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="2.308" cy="-14.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-19.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-15.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-18.731" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.178" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="9.678" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.995" cy="-14.267" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="8.933" cy="-14.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-19.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-15.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-18.731" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="18.803" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="16.303" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="19.62" cy="-14.267" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="15.558" cy="-14.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-19.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-15.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-18.731" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="25.428" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.928" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="26.245" cy="-14.267" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.183" cy="-14.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-19.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-15.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-18.731" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.053" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="29.553" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.87" cy="-14.267" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="28.808" cy="-14.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-19.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-15.638" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.736-19.338c-0.335,0-0.607,0.272-0.607,0.607c0,0.336,0.272,0.607,0.607,0.607V-19.338z"/>
-		<path style="fill:#FFFFFF;" d="M40.736-17.062c-0.335,0-0.607,0.271-0.607,0.607c0,0.335,0.272,0.607,0.607,0.607V-17.062z"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-16.454" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="38.678" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="36.178" cy="-17.544" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="39.495" cy="-14.267" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="35.433" cy="-14.263" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-12.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-9.013" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.002-11.499c0.335,0,0.606-0.272,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-11.499z"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-12.106" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-9.829" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.007-9.222c0.335,0,0.607-0.272,0.607-0.607c0-0.335-0.271-0.607-0.607-0.607V-9.222z"/>
-		<circle style="fill:#FFFFFF;" cx="5.553" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="3.053" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="6.37" cy="-7.642" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-12.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-9.013" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-12.106" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.178" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="9.678" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.995" cy="-7.642" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="8.933" cy="-7.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-12.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-9.013" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-12.106" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="18.803" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="16.303" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="19.62" cy="-7.642" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-12.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-9.013" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-12.106" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="25.428" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.928" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="26.245" cy="-7.642" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.183" cy="-7.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-12.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-9.013" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-12.106" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.053" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="29.553" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.87" cy="-7.642" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="28.808" cy="-7.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-12.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-9.013" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.736-12.713c-0.335,0-0.607,0.272-0.607,0.607c0,0.335,0.272,0.607,0.607,0.607V-12.713z"/>
-		<path style="fill:#FFFFFF;" d="M40.745-10.436c-0.335,0-0.607,0.271-0.607,0.607c0,0.336,0.272,0.607,0.607,0.607V-10.436z"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-9.829" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="38.678" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="36.178" cy="-10.919" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="39.495" cy="-7.642" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="35.433" cy="-7.638" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-6.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="4.335" cy="-2.388" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.005-4.874c0.335,0,0.606-0.272,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-4.874z"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-5.481" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-3.204" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M1.005-2.597c0.335,0,0.606-0.272,0.606-0.607c0-0.335-0.271-0.607-0.606-0.607V-2.597z"/>
-		<circle style="fill:#FFFFFF;" cx="5.553" cy="-4.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="3.053" cy="-4.294" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M6.977-1.012c0-0.334-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.273-0.607,0.607H6.977z"/>
-		<circle style="fill:#FFFFFF;" cx="2.308" cy="-7.579" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M2.915-1.007c0-0.335-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.271-0.607,0.607H2.915z"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-6.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="10.96" cy="-2.388" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-5.481" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="7.62" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="12.178" cy="-4.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="9.678" cy="-4.294" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M13.602-1.012c0-0.334-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.273-0.607,0.607H13.602z"/>
-		<path style="fill:#FFFFFF;" d="M9.54-1.007c0-0.335-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.271-0.607,0.607H9.54z"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-6.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="17.585" cy="-2.388" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-5.481" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="14.245" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="18.803" cy="-4.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="16.303" cy="-4.294" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M20.228-1.012c0-0.334-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.273-0.607,0.607H20.228z"/>
-		<circle style="fill:#FFFFFF;" cx="15.558" cy="-7.579" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M16.165-1.007c0-0.335-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.271-0.607,0.607H16.165z"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-6.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="24.21" cy="-2.388" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-5.481" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="20.87" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="25.428" cy="-4.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="22.928" cy="-4.294" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M26.853-1.012c0-0.334-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.273-0.607,0.607H26.853z"/>
-		<path style="fill:#FFFFFF;" d="M22.79-1.007c0-0.335-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.271-0.607,0.607H22.79z"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-6.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="30.835" cy="-2.388" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-5.481" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="27.495" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="32.053" cy="-4.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="29.553" cy="-4.294" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M33.478-1.012c0-0.334-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.273-0.607,0.607H33.478z"/>
-		<path style="fill:#FFFFFF;" d="M29.415-1.007c0-0.335-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.271-0.607,0.607H29.415z"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-6.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="37.46" cy="-2.388" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.745-6.088c-0.335,0-0.607,0.272-0.607,0.607c0,0.335,0.272,0.607,0.607,0.607V-6.088z"/>
-		<path style="fill:#FFFFFF;" d="M40.745-3.812c-0.335,0-0.607,0.272-0.607,0.607c0,0.336,0.272,0.607,0.607,0.607V-3.812z"/>
-		<circle style="fill:#FFFFFF;" cx="34.12" cy="-3.204" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="38.678" cy="-4.294" r="0.607"/>
-		<circle style="fill:#FFFFFF;" cx="36.178" cy="-4.294" r="0.607"/>
-		<path style="fill:#FFFFFF;" d="M40.103-1.012c0-0.334-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.273-0.607,0.607H40.103z"/>
-		<path style="fill:#FFFFFF;" d="M36.04-1.007c0-0.335-0.271-0.607-0.607-0.607c-0.335,0-0.607,0.271-0.607,0.607H36.04z"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39.737" height="39.737">
+  <defs>
+    <path id="a" d="M0 0h39.74v39.74H0z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <path d="M0 0h39.74v39.74H0z" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="1.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="5.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 2.74c.33 0 .6-.27.6-.6S.33 1.5 0 1.5v1.22z" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="2.131" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 5c.34 0 .6-.26.6-.6s-.26-.6-.6-.6V5z" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M4.76 0c0 .33.27.6.6.6s.6-.27.6-.6h-1.2z" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="6.595" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M.7 0c0 .33.27.6.6.6s.6-.27.6-.6H.7z" clip-path="url(#b)"/>
+  <circle cx="1.304" cy="6.599" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="1.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="5.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="2.131" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M11.38 0c0 .33.28.6.6.6s.62-.27.62-.6h-1.22z" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="6.595" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M7.32 0c0 .33.27.6.6.6s.62-.27.62-.6H7.32z" clip-path="url(#b)"/>
+  <circle cx="7.929" cy="6.599" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="1.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="5.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="2.131" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M18 0c0 .33.28.6.62.6s.6-.27.6-.6h-1.2z" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="6.595" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M13.95 0c0 .33.27.6.6.6s.6-.27.6-.6h-1.2z" clip-path="url(#b)"/>
+  <circle cx="14.554" cy="6.599" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="1.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="5.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="2.131" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M24.63 0c0 .33.28.6.6.6s.62-.27.62-.6h-1.22z" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="6.595" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M20.57 0c0 .33.27.6.6.6s.62-.27.62-.6h-1.23z" clip-path="url(#b)"/>
+  <circle cx="21.179" cy="6.599" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="1.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="5.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="2.131" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M31.26 0c0 .33.27.6.6.6s.6-.27.6-.6h-1.2z" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="6.595" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M27.2 0c0 .33.27.6.6.6s.6-.27.6-.6h-1.2z" clip-path="url(#b)"/>
+  <circle cx="27.804" cy="6.599" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="1.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="5.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.74 1.52c-.34 0-.6.27-.6.6s.26.62.6.62V1.52zM39.74 3.8c-.33 0-.6.27-.6.6s.27.6.6.6V3.8z" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="4.407" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="3.318" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M37.88 0c0 .33.28.6.6.6s.62-.27.62-.6h-1.22z" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="6.595" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M33.82 0c0 .33.27.6.6.6s.62-.27.62-.6h-1.22z" clip-path="url(#b)"/>
+  <circle cx="34.429" cy="6.599" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="7.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="11.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 9.36c.33 0 .6-.27.6-.6s-.27-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="8.756" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 11.64c.33 0 .6-.27.6-.6s-.27-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="13.22" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="1.304" cy="13.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="7.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="11.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="8.756" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="13.22" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="7.929" cy="13.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="7.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="11.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="8.756" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="13.22" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="14.554" cy="13.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="7.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="11.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="8.756" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="13.22" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.179" cy="13.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="7.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="11.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="8.756" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="13.22" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="27.804" cy="13.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="7.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="11.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.73 8.15c-.33 0-.6.27-.6.6s.27.6.6.6v-1.2zM39.75 10.43c-.34 0-.6.27-.6.6s.26.6.6.6v-1.2z" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="11.032" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="9.943" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="13.22" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="34.429" cy="13.224" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="14.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="18.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 16c.33 0 .6-.28.6-.62s-.27-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="15.381" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 18.27c.34 0 .6-.28.6-.6s-.26-.62-.6-.62v1.2z" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="19.845" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="1.304" cy="19.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="14.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="18.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="15.381" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="19.845" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="7.929" cy="19.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="14.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="18.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="15.381" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="19.845" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="14.554" cy="19.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="14.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="18.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="15.381" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="19.845" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.179" cy="19.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="14.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="18.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="15.381" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="19.845" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="27.804" cy="19.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="14.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="18.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.73 14.77c-.33 0-.6.28-.6.6s.27.62.6.62v-1.23zM39.73 17.05c-.33 0-.6.27-.6.6s.27.6.6.6v-1.2z" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="17.657" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="16.568" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="19.845" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="34.429" cy="19.849" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="21.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="25.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 22.6c.33 0 .6-.26.6-.6s-.27-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="22.006" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 24.9c.35 0 .62-.28.62-.62s-.27-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="26.47" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="1.304" cy="26.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="21.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="25.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="22.006" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="26.47" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="7.929" cy="26.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="21.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="25.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="22.006" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="26.47" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="14.554" cy="26.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="21.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="25.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="22.006" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="26.47" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.179" cy="26.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="21.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="25.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="22.006" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="26.47" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="27.804" cy="26.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="21.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="25.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.73 21.4c-.33 0-.6.27-.6.6s.27.6.6.6v-1.2zM39.73 23.68c-.33 0-.6.27-.6.6s.27.6.6.6v-1.2z" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="24.282" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="23.193" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="26.47" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="34.429" cy="26.474" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="27.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="31.724" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 29.24c.33 0 .6-.27.6-.6S.33 28 0 28v1.22z" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="28.631" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 31.52c.34 0 .6-.28.6-.6s-.26-.62-.6-.62v1.2z" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="5.367" cy="33.095" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="27.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="31.724" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="28.631" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.992" cy="33.095" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="7.929" cy="33.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="27.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="31.724" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="28.631" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="18.617" cy="33.095" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="27.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="31.724" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="28.631" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="25.242" cy="33.095" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.179" cy="33.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="27.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="31.724" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="28.631" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.867" cy="33.095" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="27.804" cy="33.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="27.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="31.724" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.73 28.02c-.33 0-.6.28-.6.6s.27.62.6.62v-1.22zM39.74 30.3c-.33 0-.6.27-.6.6s.27.6.6.6v-1.2z" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="30.907" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="29.818" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="38.492" cy="33.095" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="34.429" cy="33.099" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="34.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="3.331" cy="38.349" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 35.86c.34 0 .6-.27.6-.6s-.26-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="35.256" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M0 38.14c.34 0 .6-.27.6-.6s-.26-.6-.6-.6v1.2z" clip-path="url(#b)"/>
+  <circle cx="4.549" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="2.049" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M5.97 39.73c0-.34-.27-.6-.6-.6s-.6.26-.6.6h1.2z" clip-path="url(#b)"/>
+  <circle cx="1.304" cy="33.157" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M1.9 39.73c0-.34-.26-.6-.6-.6s-.6.26-.6.6h1.2z" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="34.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="9.956" cy="38.349" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="35.256" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="6.617" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="11.174" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="8.674" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M12.6 39.73c0-.34-.27-.6-.6-.6s-.6.26-.6.6h1.2zM8.54 39.73c0-.34-.27-.6-.6-.6s-.62.26-.62.6h1.22z" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="34.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="16.581" cy="38.349" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="35.256" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="13.242" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="17.799" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="15.299" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M19.22 39.73c0-.34-.27-.6-.6-.6s-.6.26-.6.6h1.2z" clip-path="url(#b)"/>
+  <circle cx="14.554" cy="33.157" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M15.16 39.73c0-.34-.27-.6-.6-.6s-.6.26-.6.6h1.2z" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="34.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="23.206" cy="38.349" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="35.256" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="19.867" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="24.424" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="21.924" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M25.85 39.73c0-.34-.27-.6-.6-.6s-.6.26-.6.6h1.2zM21.8 39.73c0-.34-.28-.6-.62-.6s-.6.26-.6.6h1.2z" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="34.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="29.831" cy="38.349" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="35.256" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="26.492" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="31.049" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="28.549" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M32.47 39.73c0-.34-.27-.6-.6-.6s-.6.26-.6.6h1.2zM28.4 39.73c0-.34-.26-.6-.6-.6s-.6.26-.6.6h1.2z" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="34.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="36.456" cy="38.349" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.74 34.65c-.33 0-.6.27-.6.6s.27.6.6.6v-1.2zM39.74 36.92c-.33 0-.6.28-.6.6s.27.62.6.62v-1.22z" clip-path="url(#b)"/>
+  <circle cx="33.117" cy="37.532" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="37.674" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <circle cx="35.174" cy="36.443" r=".607" fill="#fff" clip-path="url(#b)"/>
+  <path fill="#fff" d="M39.1 39.73c0-.34-.27-.6-.6-.6s-.62.26-.62.6h1.22zM35.04 39.73c0-.34-.27-.6-.6-.6s-.62.26-.62.6h1.22z" clip-path="url(#b)"/>
 </svg>

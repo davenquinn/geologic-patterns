@@ -1,38 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="18.529" height="19.273" viewBox="0 -19.273 18.529 19.273">
-	<g>
-		<rect x="0" y="-19.273" style="fill:none;" width="18.529" height="19.273"/>
-		<rect x="0.004" y="-19.273" width="18.525" height="19.256"/>
-		<rect x="0.004" y="-19.273" style="fill:none;" width="18.525" height="19.256"/>
-		<path style="fill:#FFFFFF;" d="M3.343-19.255c0,0.646,0.525,1.17,1.17,1.17c0.648,0,1.17-0.523,1.17-1.17"/>
-		<path style="fill:#FFFFFF;" d="M3.343-19.255"/>
-		<path style="fill:#FFFFFF;" d="M5.683-19.255"/>
-		<path style="fill:#FFFFFF;" d="M15.116-19.255"/>
-		<path style="fill:#FFFFFF;" d="M12.776-19.255"/>
-		<path style="fill:#FFFFFF;" d="M15.116-19.255c0,0.646-0.525,1.17-1.17,1.17c-0.647,0-1.17-0.523-1.17-1.17"/>
-		<path style="fill:#FFFFFF;" d="M0-15.547"/>
-		<path style="fill:#FFFFFF;" d="M0-17.887"/>
-		<path style="fill:#FFFFFF;" d="M0-15.547c0.647,0,1.17-0.524,1.17-1.17c0-0.646-0.522-1.17-1.17-1.17"/>
-		<path style="fill:#FFFFFF;" d="M18.509-15.547c-0.648,0-1.17-0.524-1.17-1.17c0-0.646,0.522-1.17,1.17-1.17"/>
-		<path style="fill:#FFFFFF;" d="M18.509-15.547"/>
-		<path style="fill:#FFFFFF;" d="M18.509-17.887"/>
-		<path style="fill:#FFFFFF;" d="M0-13.186c0.647,0,1.17,0.524,1.17,1.171c0,0.646-0.522,1.17-1.17,1.17"/>
-		<path style="fill:#FFFFFF;" d="M0-13.186"/>
-		<path style="fill:#FFFFFF;" d="M0-10.845"/>
-		<circle style="fill:#FFFFFF;" cx="4.712" cy="-9.577" r="1.17"/>
-		<circle style="fill:#FFFFFF;" cx="9.263" cy="-7.14" r="1.17"/>
-		<circle style="fill:#FFFFFF;" cx="6.867" cy="-14.54" r="1.17"/>
-		<circle style="fill:#FFFFFF;" cx="11.569" cy="-14.54" r="1.17"/>
-		<circle style="fill:#FFFFFF;" cx="13.796" cy="-9.577" r="1.17"/>
-		<path style="fill:#FFFFFF;" d="M18.509-13.186"/>
-		<path style="fill:#FFFFFF;" d="M18.509-10.845"/>
-		<path style="fill:#FFFFFF;" d="M18.509-13.186c-0.645,0-1.17,0.524-1.17,1.171c0,0.646,0.525,1.17,1.17,1.17"/>
-		<circle style="fill:#FFFFFF;" cx="9.246" cy="-2.438" r="1.17"/>
-		<path style="fill:#FFFFFF;" d="M12.789,0c0-0.646,0.525-1.171,1.17-1.171c0.647,0,1.17,0.524,1.17,1.171"/>
-		<path style="fill:#FFFFFF;" d="M12.789,0"/>
-		<path style="fill:#FFFFFF;" d="M15.129,0"/>
-		<circle style="fill:#FFFFFF;" cx="16.114" cy="-4.963" r="1.17"/>
-		<circle style="fill:#FFFFFF;" cx="2.29" cy="-4.963" r="1.17"/>
-		<path style="fill:#FFFFFF;" d="M5.688,0c0-0.646-0.525-1.171-1.17-1.171c-0.648,0-1.17,0.524-1.17,1.171"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="18.529" height="19.273">
+  <path fill="none" d="M0 0h18.53v19.27H0z"/>
+  <path d="M0 0h18.53v19.26H0z"/>
+  <path fill="none" d="M0 0h18.53v19.26H0z"/>
+  <path fill="#fff" d="M3.34.02c0 .65.53 1.17 1.17 1.17C5.17 1.2 5.7.66 5.7 0M3.34.02M5.68.02M15.12.02M12.78.02M15.12.02c0 .65-.53 1.17-1.17 1.17-.65 0-1.17-.53-1.17-1.18M0 3.73M0 1.4M0 3.73c.65 0 1.17-.53 1.17-1.17C1.17 1.9.65 1.4 0 1.4M18.5 3.73c-.64 0-1.16-.53-1.16-1.17 0-.65.52-1.17 1.17-1.17M18.5 3.73M18.5 1.4M0 6.1c.65 0 1.17.5 1.17 1.16C1.17 7.9.65 8.43 0 8.43M0 6.1M0 8.43"/>
+  <circle cx="4.712" cy="9.696" r="1.17" fill="#fff"/>
+  <circle cx="9.263" cy="12.133" r="1.17" fill="#fff"/>
+  <circle cx="6.867" cy="4.733" r="1.17" fill="#fff"/>
+  <circle cx="11.569" cy="4.733" r="1.17" fill="#fff"/>
+  <circle cx="13.796" cy="9.696" r="1.17" fill="#fff"/>
+  <path fill="#fff" d="M18.5 6.1M18.5 8.43M18.5 6.1c-.64 0-1.16.5-1.16 1.16 0 .65.52 1.17 1.17 1.17"/>
+  <circle cx="9.246" cy="16.835" r="1.17" fill="#fff"/>
+  <path fill="#fff" d="M12.8 19.27c0-.64.5-1.17 1.16-1.17.65 0 1.17.53 1.17 1.17M12.8 19.27M15.13 19.27"/>
+  <circle cx="16.113" cy="14.311" r="1.17" fill="#fff"/>
+  <circle cx="2.291" cy="14.311" r="1.17" fill="#fff"/>
+  <path fill="#fff" d="M5.7 19.27c0-.64-.54-1.17-1.18-1.17-.65 0-1.17.53-1.17 1.17"/>
 </svg>
