@@ -1,17 +1,31 @@
+<div id='leader'>
+<ul class='quick-links'>
+  <li><a href='#pattern-reference'>Map patterns</a></li>
+  <li><a href='#series-600'>Lithologic patterns</a></li>
+  <li><a href='#github'><i class='icon-github'></i> Github</a></li>
+  <li><a href='https://pubs.usgs.gov/tm/2006/11A02/'>FGDC standard</a></li>
+</ul>
+
+![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
+</div>
 
 The [FGDC Digital Cartographic Standard for Geologic Map
 Symbolization][fgdc_std], released in 2006, provides guidance and
 assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
-This repository contains the entire FGDC pattern library extracted to
-SVG and PNG, for use on the modern web. This can be paired with collections of
+This repository contains the FGDC library 480 map and lithologic
+patterns extracted to
+SVG and PNG, for use on the modern web. This can be paired with other collections of
 linework and geologic symbols for the construction of slick geologic maps and
-stratigraphic columns. There are 480 individual patterns – scroll down
-to the [*pattern reference*](#pattern-reference) below the fold to see
-them all!
+stratigraphic columns.
 
-![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
+### Credits
+
+<ul class='author-date'>
+  <li>Created by <a class='author' href="http://davenquinn.com">Daven Quinn</a> on <span class='date'>July 15, 2017</span></li>
+  <li>Updated with fixes from 
+</ul>
 
 ## Motivation
 
@@ -20,9 +34,8 @@ and the symbology is unmatched in quality and breadth.
 Patterns are [available](https://pubs.usgs.gov/tm/2006/11A02/) as
 `.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style` file.
 
-However, the first-party products are difficult to use effectively.
-The formats provided by the USGS are tied to Adobe Illustrator
-and the ESRI ecosystem, and are increasingly dated -- recent
+However, the original formats are tied to the Adobe
+and ESRI ecosystems, and are increasingly dated -- recent
 versions of Adobe Illustrator CC have difficulty importing pattern
 swatches from the files provided on the FGDC site.
 
