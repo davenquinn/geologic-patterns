@@ -14,9 +14,12 @@ svgdir=assets/svg
 outdir=assets/png
 pdir=${outdir}-uncompressed
 
+mkdir -p $outdir $pdir
+
 for f in $svgdir/*.svg; do
   fn=${f:t:r}.png
   out=${pdir}/${fn}
+  quant=$outdir/$fn
 
   # Pretty-print xml and save old version in case of errors
   oldf=$f.dirty
@@ -25,6 +28,8 @@ for f in $svgdir/*.svg; do
   if cmp $f $oldf >/dev/null 2>&1
   then
     rm -f $oldf
+    # Don't rebuild PNGs if they already exist
+    [[ -f $out && -f $quant ]] && continue
   else
     echo "Reformatted svg $f"
   fi
@@ -34,12 +39,12 @@ for f in $svgdir/*.svg; do
   ls -hs $out
 
   # Build paletted pngs for smaller file size
-  quant=$outdir/$fn
   cat $out | imagemin --plugin=pngquant > $quant
   ls -hs $quant
 
   # Display image if we have a fancy terminal
   if type "imgcat" > /dev/null; then
+    # Install with `npm install -g imgcat-cli` for now
     imgcat --width 100px $out
   fi
 
