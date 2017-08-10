@@ -25,6 +25,8 @@ for f in $svgdir/*.svg; do
   if cmp $f $oldf >/dev/null 2>&1
   then
     rm -f $oldf
+  else
+    echo "Reformatted svg $f"
   fi
 
   # Build pngs
@@ -35,6 +37,12 @@ for f in $svgdir/*.svg; do
   quant=$outdir/$fn
   cat $out | imagemin --plugin=pngquant > $quant
   ls -hs $quant
+
+  # Display image if we have a fancy terminal
+  if type "imgcat" > /dev/null; then
+    imgcat --width 100px $out
+  fi
+
   echo ""
 done
 
