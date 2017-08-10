@@ -1,36 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="57.6" height="57.601" viewBox="0 -57.601 57.6 57.601">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="57.6" height="57.601" viewBox="0 -57.601 57.6 57.601">
 	<g>
 		<rect x="0" y="-57.601" style="fill:none;" width="57.6" height="57.601"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="53.987" cy="-55.238" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="48.425" cy="-55.051" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M45.641-57.601c-0.01,0.481-0.401,0.866-0.883,0.866
-			c-0.481,0-0.874-0.386-0.883-0.866"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M50.089-57.601c0,0.012-0.001,0.024-0.001,0.035
-			c0,0.488,0.397,0.884,0.884,0.884c0.488,0,0.884-0.396,0.884-0.884c0-0.012,0-0.024-0.001-0.035"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M50.07,0c0.025-0.465,0.412-0.835,0.882-0.835
-			c0.472,0,0.857,0.37,0.882,0.835"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-17.96c-0.007,0-0.015,0-0.023,0
-			c-0.487,0-0.884,0.395-0.884,0.884s0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.023,0"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-8.023c-0.007,0-0.015,0-0.023,0
-			c-0.487,0-0.884,0.396-0.884,0.884s0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.023,0"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-0.008v-0.827c-0.007,0-0.015,0-0.023,0
-			c-0.471,0-0.857,0.37-0.882,0.835H57.6"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-57.571v0.827c-0.007,0-0.015,0-0.023,0
-			c-0.471,0-0.857-0.37-0.882-0.835H57.6"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M35.148,0c0-0.005,0-0.009,0-0.014
-			c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M40.197,0c0-0.006,0-0.012,0-0.018
-			c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.006,0,0.012,0,0.018"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M45.648,0c0-0.005,0-0.009,0-0.014
-			c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M45.641-57.601c-0.01,0.481-0.401,0.866-0.883,0.866    c-0.481,0-0.874-0.386-0.883-0.866"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M50.089-57.601c0,0.012-0.001,0.024-0.001,0.035    c0,0.488,0.397,0.884,0.884,0.884c0.488,0,0.884-0.396,0.884-0.884c0-0.012,0-0.024-0.001-0.035"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M50.07,0c0.025-0.465,0.412-0.835,0.882-0.835    c0.472,0,0.857,0.37,0.882,0.835"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-17.96c-0.007,0-0.015,0-0.023,0    c-0.487,0-0.884,0.395-0.884,0.884s0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.023,0"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-8.023c-0.007,0-0.015,0-0.023,0    c-0.487,0-0.884,0.396-0.884,0.884s0.396,0.884,0.884,0.884c0.007,0,0.015,0,0.023,0"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-0.008v-0.827c-0.007,0-0.015,0-0.023,0    c-0.471,0-0.857,0.37-0.882,0.835H57.6"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-57.571v0.827c-0.007,0-0.015,0-0.023,0    c-0.471,0-0.857-0.37-0.882-0.835H57.6"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M35.148,0c0-0.005,0-0.009,0-0.014    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M40.197,0c0-0.006,0-0.012,0-0.018    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.006,0,0.012,0,0.018"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M45.648,0c0-0.005,0-0.009,0-0.014    c0-0.488-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884c0,0.005,0,0.009,0,0.014"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="44.809" cy="-54.068" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M40.254-57.601c-0.016,0.475-0.405,0.854-0.883,0.854
-			c-0.477,0-0.867-0.379-0.883-0.854"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M40.254-57.601c-0.016,0.475-0.405,0.854-0.883,0.854    c-0.477,0-0.867-0.379-0.883-0.854"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="40.925" cy="-53.801" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="36.675" cy="-54.051" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M35.183-57.601c-0.007,0.482-0.399,0.872-0.883,0.872
-			c-0.483,0-0.876-0.39-0.883-0.872"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M35.183-57.601c-0.007,0.482-0.399,0.872-0.883,0.872    c-0.483,0-0.876-0.39-0.883-0.872"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="33.05" cy="-53.301" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="28.925" cy="-53.301" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="27.05" cy="-56.426" r="0.884"/>
@@ -45,13 +33,10 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="51.05" cy="-52.488" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="54.559" cy="-51.568" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="53.362" cy="-48.56" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-54.564c-0.452,0.038-0.809,0.418-0.809,0.88
-			c0,0.463,0.356,0.843,0.809,0.881"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-49.38c-0.481,0.007-0.871,0.399-0.871,0.883
-			c0,0.484,0.39,0.877,0.871,0.884"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-54.564c-0.452,0.038-0.809,0.418-0.809,0.88    c0,0.463,0.356,0.843,0.809,0.881"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-49.38c-0.481,0.007-0.871,0.399-0.871,0.883    c0,0.484,0.39,0.877,0.871,0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="55.309" cy="-44.693" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-42.772c-0.009,0-0.019-0.001-0.028-0.001
-			c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.01,0,0.019-0.001,0.028-0.001"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M57.6-42.772c-0.009,0-0.019-0.001-0.028-0.001    c-0.487,0-0.884,0.396-0.884,0.884c0,0.488,0.396,0.884,0.884,0.884c0.01,0,0.019-0.001,0.028-0.001"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="51.229" cy="-45.426" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="52.862" cy="-41.872" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="54.934" cy="-39.068" r="0.884"/>
@@ -83,8 +68,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="48.657" cy="-22.618" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="56.309" cy="-20.568" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="53.642" cy="-16.468" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-16.224c0.016,0.001,0.032,0.001,0.048,0.001
-			c0.488,0,0.884-0.396,0.884-0.884c0-0.487-0.396-0.884-0.884-0.884c-0.016,0-0.032,0.001-0.048,0.002"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-16.224c0.016,0.001,0.032,0.001,0.048,0.001    c0.488,0,0.884-0.396,0.884-0.884c0-0.487-0.396-0.884-0.884-0.884c-0.016,0-0.032,0.001-0.048,0.002"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="55.838" cy="-13.727" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="47.487" cy="-44.81" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="45.291" cy="-47.426" r="0.884"/>
@@ -115,8 +99,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="15.487" cy="-54.363" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="13.425" cy="-56.426" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="10.621" cy="-54.131" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M9.734-57.601c-0.009,0.481-0.401,0.866-0.883,0.866
-			c-0.482,0-0.874-0.386-0.883-0.866"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M9.734-57.601c-0.009,0.481-0.401,0.866-0.883,0.866    c-0.482,0-0.874-0.386-0.883-0.866"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="12.916" cy="-51.926" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="14.541" cy="-48.801" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="18.107" cy="-45.391" r="0.884"/>
@@ -146,22 +129,18 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="8.267" cy="-40.685" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="6.55" cy="-43.81" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="2.55" cy="-44.247" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-40.988c0.482-0.007,0.871-0.399,0.871-0.884
-			c0-0.483-0.389-0.876-0.871-0.883"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-40.988c0.482-0.007,0.871-0.399,0.871-0.884    c0-0.483-0.389-0.876-0.871-0.883"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="4.425" cy="-46.997" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-47.572c0.477-0.013,0.859-0.402,0.859-0.883
-			c0-0.479-0.382-0.87-0.859-0.883"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-47.572c0.477-0.013,0.859-0.402,0.859-0.883    c0-0.479-0.382-0.87-0.859-0.883"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="9.3" cy="-46.185" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="6.862" cy="-49.31" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="11.05" cy="-49.06" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="8.541" cy="-51.551" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="4.925" cy="-52.747" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-52.801c0.482-0.007,0.871-0.399,0.871-0.884
-			c0-0.483-0.389-0.876-0.871-0.883"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-52.801c0.482-0.007,0.871-0.399,0.871-0.884    c0-0.483-0.389-0.876-0.871-0.883"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="2.55" cy="-50.435" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="6.779" cy="-55.074" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-57.601v0.908c0.473-0.018,0.851-0.405,0.851-0.882
-			c0-0.009-0.001-0.018-0.001-0.026H0.001"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-57.601v0.908c0.473-0.018,0.851-0.405,0.851-0.882    c0-0.009-0.001-0.018-0.001-0.026H0.001"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="2.737" cy="-56.122" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="26.725" cy="-30.766" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="30.008" cy="-29.584" r="0.884"/>
@@ -253,8 +232,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="18.925" cy="-2.551" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="15.05" cy="-2.051" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="11.05" cy="-2.176" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M9.745,0c0.001-0.017,0.002-0.033,0.002-0.051
-			c0-0.487-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884C7.978-0.033,7.979-0.017,7.98,0"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M9.745,0c0.001-0.017,0.002-0.033,0.002-0.051    c0-0.487-0.396-0.884-0.884-0.884c-0.487,0-0.884,0.396-0.884,0.884C7.978-0.033,7.979-0.017,7.98,0"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="7.425" cy="-3.435" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="4.3" cy="-1.31" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="3.425" cy="-5.435" r="0.884"/>
@@ -271,8 +249,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="29.916" cy="-16.926" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="19.166" cy="-15.301" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="6.55" cy="-7.435" r="0.884"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-8.037c0.471,0.019,0.846,0.408,0.846,0.883
-			c0,0.476-0.375,0.861-0.846,0.882"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" d="M0-8.037c0.471,0.019,0.846,0.408,0.846,0.883    c0,0.476-0.375,0.861-0.846,0.882"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="9.791" cy="-6.301" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="13.041" cy="-5.676" r="0.884"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#ED1B2E;" cx="15.041" cy="-8.926" r="0.884"/>

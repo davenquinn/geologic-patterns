@@ -1,46 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="47.25" height="47" viewBox="1 -48 47.25 47">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="47.25" height="47" viewBox="1 -48 47.25 47">
 	<g>
 		<rect x="1" y="-48" style="fill:none;" width="47.25" height="47"/>
 		<rect x="1" y="-48" style="fill-rule:evenodd;clip-rule:evenodd;" width="47.25" height="47"/>
-		<path style="fill:#FFFFFF;" d="M2.028-48c-0.003,0.02-0.005,0.041-0.005,0.062c0,0.221,0.179,0.4,0.4,0.4
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M4.653-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M7.34-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M9.903-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M12.465-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M15.09-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M17.715-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M20.403-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M23.028-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M25.528-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M28.215-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M30.84-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M33.403-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M36.09-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M38.653-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M41.278-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M43.903-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M46.528-48c-0.003,0.02-0.005,0.041-0.005,0.062
-			c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-47.084c-0.198,0.023-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill:#FFFFFF;" d="M2.028-48c-0.003,0.02-0.005,0.041-0.005,0.062c0,0.221,0.179,0.4,0.4,0.4    c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M4.653-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M7.34-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M9.903-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M12.465-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M15.09-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M17.715-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M20.403-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M23.028-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M25.528-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M28.215-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M30.84-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.22,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M33.403-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M36.09-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M38.653-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M41.278-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M43.903-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M46.528-48c-0.003,0.02-0.005,0.041-0.005,0.062    c0,0.221,0.179,0.4,0.4,0.4c0.221,0,0.4-0.179,0.4-0.4c0-0.021-0.002-0.042-0.005-0.062"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-47.084c-0.198,0.023-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-46.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-46.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-46.688" r="0.4"/>
@@ -58,8 +39,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-46.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-46.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-46.688" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-46.291c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-46.291c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-45.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-45.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-45.375" r="0.4"/>
@@ -78,8 +58,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-45.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-45.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-45.375" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-44.522c-0.198,0.024-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-44.522c-0.198,0.024-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-44.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-44.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-44.125" r="0.4"/>
@@ -97,8 +76,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-44.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-44.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-44.125" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-43.728c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-43.728c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-42.75" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-42.75" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-42.75" r="0.4"/>
@@ -117,8 +95,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-42.75" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-42.75" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-42.75" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-41.896c-0.198,0.023-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-41.896c-0.198,0.023-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-41.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-41.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-41.5" r="0.4"/>
@@ -136,8 +113,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-41.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-41.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-41.5" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-41.103C1.016-41.102,1.031-41.1,1.047-41.1
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-41.103C1.016-41.102,1.031-41.1,1.047-41.1    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-40.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-40.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-40.125" r="0.4"/>
@@ -156,8 +132,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-40.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-40.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-40.125" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-39.272c-0.198,0.023-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-39.272c-0.198,0.023-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-38.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-38.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-38.875" r="0.4"/>
@@ -175,8 +150,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-38.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-38.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-38.875" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-38.478c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-38.478c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-37.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-37.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-37.5" r="0.4"/>
@@ -195,8 +169,7 @@
 		<circle style="fill:#FFFFFF;" cx="41.672" cy="-37.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-37.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-37.5" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-36.646c-0.198,0.023-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-36.646c-0.198,0.023-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-36.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-36.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-36.25" r="0.4"/>
@@ -214,8 +187,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-36.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-36.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-36.25" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-35.853c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-35.853c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-34.938" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-34.938" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-34.938" r="0.4"/>
@@ -234,8 +206,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-34.938" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-34.938" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-34.938" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-34.084c-0.198,0.023-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-34.084c-0.198,0.023-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-33.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-33.688" r="0.4"/>
 		<circle style="fill:#FFFFFF;" cx="40.422" cy="-33.688" r="0.4"/>
@@ -253,8 +224,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-33.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-33.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-33.688" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-33.291c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-33.291c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-32.313" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-32.313" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-32.313" r="0.4"/>
@@ -273,8 +243,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-32.313" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-32.313" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-32.313" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-31.459c-0.198,0.024-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-31.459c-0.198,0.024-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-31.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-31.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-31.063" r="0.4"/>
@@ -292,8 +261,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-31.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-31.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-31.063" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-30.666c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-30.666c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-29.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-29.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-29.688" r="0.4"/>
@@ -312,8 +280,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-29.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-29.688" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-29.688" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-28.834c-0.198,0.024-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-28.834c-0.198,0.024-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-28.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-28.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-28.438" r="0.4"/>
@@ -331,8 +298,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-28.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-28.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-28.438" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-28.041c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-28.041c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-27.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-27.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-27.063" r="0.4"/>
@@ -351,8 +317,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-27.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-27.063" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-27.063" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-26.209c-0.198,0.024-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-26.209c-0.198,0.024-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-25.813" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-25.813" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-25.813" r="0.4"/>
@@ -370,8 +335,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-25.813" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-25.813" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-25.813" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-25.416c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-25.416c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-24.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-24.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-24.5" r="0.4"/>
@@ -390,8 +354,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-24.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-24.5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-24.5" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-23.646c-0.198,0.024-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-23.646c-0.198,0.024-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-23.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-23.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-23.25" r="0.4"/>
@@ -409,8 +372,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-23.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-23.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-23.25" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-22.853c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-22.853c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-21.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-21.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-21.875" r="0.4"/>
@@ -429,8 +391,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-21.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-21.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-21.875" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-21.022c-0.198,0.024-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-21.022c-0.198,0.024-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-20.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-20.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-20.625" r="0.4"/>
@@ -448,8 +409,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-20.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-20.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-20.625" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-20.228c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-20.228c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-19.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-19.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-19.25" r="0.4"/>
@@ -468,8 +428,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-19.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-19.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-19.25" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-18.396c-0.198,0.024-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-18.396c-0.198,0.024-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-18" r="0.4"/>
 		<circle style="fill:#FFFFFF;" cx="43.047" cy="-18" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-18" r="0.4"/>
@@ -487,8 +446,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-18" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-18" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-18" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-17.603C1.016-17.601,1.031-17.6,1.047-17.6
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-17.603C1.016-17.601,1.031-17.6,1.047-17.6    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-16.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-16.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-16.625" r="0.4"/>
@@ -507,8 +465,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-16.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-16.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-16.625" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-15.772c-0.198,0.023-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-15.772c-0.198,0.023-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-15.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-15.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-15.375" r="0.4"/>
@@ -526,8 +483,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-15.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-15.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-15.375" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-14.978c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-14.978c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-14.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-14.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-14.125" r="0.4"/>
@@ -546,8 +502,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-14.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-14.125" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-14.125" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-13.272c-0.198,0.023-0.352,0.192-0.352,0.396
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-13.272c-0.198,0.023-0.352,0.192-0.352,0.396    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-12.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-12.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-12.875" r="0.4"/>
@@ -565,8 +520,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-12.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-12.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-12.875" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-12.478c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-12.478c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-11.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-11.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-11.438" r="0.4"/>
@@ -585,8 +539,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-11.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-11.438" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-11.438" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-10.584c-0.198,0.023-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-10.584c-0.198,0.023-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-10.188" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-10.188" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-10.188" r="0.4"/>
@@ -604,8 +557,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-10.188" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-10.188" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-10.188" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-9.791c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-9.791c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4c-0.016,0-0.032,0.001-0.047,0.003"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-8.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-8.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-8.875" r="0.4"/>
@@ -624,8 +576,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-8.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-8.875" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-8.875" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-8.022c-0.198,0.023-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-8.022c-0.198,0.023-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-7.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-7.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-7.625" r="0.4"/>
@@ -643,8 +594,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-7.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-7.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-7.625" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-7.228c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4C1.031-8.025,1.016-8.024,1-8.022"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-7.228c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4C1.031-8.025,1.016-8.024,1-8.022"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-6.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-6.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-6.25" r="0.4"/>
@@ -663,8 +613,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-6.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-6.25" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="46.922" cy="-6.25" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-5.397C48.052-5.373,47.898-5.205,47.898-5
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-5.397C48.052-5.373,47.898-5.205,47.898-5    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-5" r="0.4"/>
@@ -682,8 +631,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-5" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-5" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-4.603C1.016-4.602,1.031-4.6,1.047-4.6
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4C1.031-5.4,1.016-5.398,1-5.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-4.603C1.016-4.602,1.031-4.6,1.047-4.6    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4C1.031-5.4,1.016-5.398,1-5.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="2.422" cy="-3.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="5.047" cy="-3.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="7.735" cy="-3.625" r="0.4"/>
@@ -702,8 +650,7 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="41.672" cy="-3.625" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="44.297" cy="-3.625" r="0.4"/>
 		<circle style="fill:#FFFFFF;" cx="46.922" cy="-3.625" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-2.772c-0.198,0.023-0.352,0.192-0.352,0.397
-			c0,0.205,0.154,0.373,0.352,0.397"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M48.25-2.772c-0.198,0.023-0.352,0.192-0.352,0.397    c0,0.205,0.154,0.373,0.352,0.397"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="45.672" cy="-2.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="43.047" cy="-2.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="40.422" cy="-2.375" r="0.4"/>
@@ -721,43 +668,24 @@
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="8.985" cy="-2.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="6.36" cy="-2.375" r="0.4"/>
 		<circle style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" cx="3.735" cy="-2.375" r="0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-1.978c0.016,0.002,0.031,0.003,0.047,0.003
-			c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4C1.031-2.775,1.016-2.773,1-2.772"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M2.822-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M5.447-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M8.135-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M10.697-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M13.26-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M15.885-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M18.51-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M21.197-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M23.822-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M26.322-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M29.01-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M31.635-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M34.197-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M36.885-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M39.447-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M42.072-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M44.697-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M47.322-1c0-0.221-0.179-0.4-0.4-0.4
-			c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M1-1.978c0.016,0.002,0.031,0.003,0.047,0.003    c0.22,0,0.4-0.179,0.4-0.4c0-0.221-0.179-0.4-0.4-0.4C1.031-2.775,1.016-2.773,1-2.772"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M2.822-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M5.447-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M8.135-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M10.697-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M13.26-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M15.885-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M18.51-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M21.197-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M23.822-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M26.322-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M29.01-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M31.635-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M34.197-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M36.885-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M39.447-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M42.072-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M44.697-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M47.322-1c0-0.221-0.179-0.4-0.4-0.4    c-0.221,0-0.4,0.179-0.4,0.4"/>
 	</g>
 </svg>
