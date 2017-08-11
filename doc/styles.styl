@@ -1,21 +1,22 @@
 *
-  font-family: "Helvetica Neue", Helvetica, sans-serif
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
   box-sizing: border-box
 
-p, ul, code
+p, ul, pre
   font-size: 1.2rem
+
+p, ul
+  margin-top: 0
+  margin-bottom 1em
 
 ul
   padding-left: 1em
+  page-break-inside avoid
 
-code
-  display: inline-block
-  padding: 0 0.1em
-  border-radius: 4px
+a, .date
+  padding: 0 0.2em
 
 a
-  padding: 0 0.2em
-  margin: 0 -0.2em
   text-decoration: none
   background: lighten(dodgerblue,90%)
   color: dodgerblue
@@ -34,9 +35,12 @@ code, code span
   font-size: 0.9em
 
 code
+  display: inline-block
+  padding: 0 0.1em
   background: #eee
-  border: 1px solid #ddd
   color: #444
+  break-inside: avoid
+  page-break-inside: avoid
   &.sourceCode
     padding: 0.4em
     display: block
@@ -53,10 +57,16 @@ code
 #header
   h1
     margin-bottom: 0.2em
-  .author-date
-    margin-top: 0
-    font-style: italic
+    span.lighten
+      color #aaa
+      font-weight 400
+      font-style italic
+      padding-left 0.3em
   margin-bottom: 2em
+
+.date
+  font-style: italic
+  background-color: #eee
 
 .quick-links
   list-style: none
@@ -82,6 +92,27 @@ code
       margin 0.25em 0
     li a
       width inherit
+
+  cr = 4px solid #eee
+  cg = 3em
+  section
+    text-align: justify
+    -webkit-column-count: 2 /* Chrome, Safari, Opera */
+    -moz-column-count: 2 /* Firefox */
+    column-count: 2
+    -webkit-column-gap: cg; /* Chrome, Safari, Opera */
+    -moz-column-gap: cg; /* Firefox */
+    column-gap: cg;
+    p,ul,pre
+      margin-bottom: 0
+      border-bottom: solid 1em transparent
+// Columns
+p
+  margin-top 0
+
+h2
+  margin-top 2em
+
 
 .figure
   max-width: 40em
