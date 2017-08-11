@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="54.125" height="54.125" viewBox="0.058 -54.125 54.125 54.125">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="54.125" height="54.125" viewBox="0.058 -54.125 54.125 54.125">
 	<g>
 		<rect x="0.058" y="-54.125" style="fill:none;" width="54.125" height="54.125"/>
 		<line style="fill:none;stroke:#000000;stroke-width:0.3;" x1="27.533" y1="-50.375" x2="18.733" y2="-50.375"/>
@@ -156,13 +156,11 @@
 		<line style="fill:none;stroke:#000000;stroke-width:0.3;" x1="17.628" y1="-8.588" x2="17.628" y2="-4.238"/>
 		<line style="fill:none;stroke:#000000;stroke-width:0.3;" x1="31.628" y1="-8.588" x2="31.628" y2="-4.238"/>
 		<line style="fill:none;stroke:#000000;stroke-width:0.3;" x1="46.191" y1="-4.238" x2="46.191" y2="-8.588"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-43.284c0.312,0.05,0.662,0.078,1.031,0.078
-			c1.316,0,2.384-0.355,2.384-0.794c0-0.439-1.067-0.795-2.384-0.795c-0.369,0-0.72,0.028-1.031,0.078"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-43.284c0.312,0.05,0.662,0.078,1.031,0.078    c1.316,0,2.384-0.355,2.384-0.794c0-0.439-1.067-0.795-2.384-0.795c-0.369,0-0.72,0.028-1.031,0.078"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="13.715" cy="-44" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="27.34" cy="-44" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="41.59" cy="-44" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-51.646c0.952-0.104,1.64-0.403,1.64-0.755
-			c0-0.352-0.688-0.651-1.64-0.755"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-51.646c0.952-0.104,1.64-0.403,1.64-0.755    c0-0.352-0.688-0.651-1.64-0.755"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="12.215" cy="-52.4" rx="2.383" ry="0.795"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="25.59" cy="-52.4" rx="2.383" ry="0.795"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="39.34" cy="-52.4" rx="2.383" ry="0.795"/>
@@ -174,8 +172,7 @@
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="19.34" cy="-39.875" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="33.715" cy="-39.875" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="47.34" cy="-39.875" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-35.453c1.042-0.085,1.814-0.399,1.814-0.773
-			c0-0.373-0.772-0.687-1.814-0.771"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-35.453c1.042-0.085,1.814-0.399,1.814-0.773    c0-0.373-0.772-0.687-1.814-0.771"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="12.34" cy="-36.225" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="25.715" cy="-36.225" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="39.215" cy="-36.225" rx="2.383" ry="0.794"/>
@@ -183,8 +180,7 @@
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="19.59" cy="-33" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="34.34" cy="-33" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="47.59" cy="-33" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-28.351c0.171,0.013,0.349,0.019,0.531,0.019
-			c1.316,0,2.384-0.355,2.384-0.794c0-0.44-1.067-0.795-2.384-0.795c-0.183,0-0.36,0.007-0.531,0.021"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-28.351c0.171,0.013,0.349,0.019,0.531,0.019    c1.316,0,2.384-0.355,2.384-0.794c0-0.44-1.067-0.795-2.384-0.795c-0.183,0-0.36,0.007-0.531,0.021"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="13.215" cy="-29.125" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="26.84" cy="-29.125" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="41.34" cy="-29.125" rx="2.383" ry="0.794"/>
@@ -192,8 +188,7 @@
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="18.715" cy="-25.25" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="33.215" cy="-25.25" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="46.34" cy="-25.25" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-20.399c0.834-0.124,1.415-0.402,1.415-0.726
-			c0-0.324-0.581-0.603-1.415-0.727"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-20.399c0.834-0.124,1.415-0.402,1.415-0.726    c0-0.324-0.581-0.603-1.415-0.727"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="11.965" cy="-21.125" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="25.215" cy="-21.125" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="39.09" cy="-21.125" rx="2.383" ry="0.794"/>
@@ -201,8 +196,7 @@
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="20.09" cy="-17.625" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="34.715" cy="-17.625" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="48.215" cy="-17.625" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-13.362c0.209,0.021,0.429,0.031,0.656,0.031
-			c1.316,0,2.384-0.355,2.384-0.794c0-0.439-1.067-0.795-2.384-0.795c-0.228,0-0.447,0.011-0.656,0.03"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-13.362c0.209,0.021,0.429,0.031,0.656,0.031    c1.316,0,2.384-0.355,2.384-0.794c0-0.439-1.067-0.795-2.384-0.795c-0.228,0-0.447,0.011-0.656,0.03"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="13.215" cy="-14.125" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="26.715" cy="-14.125" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="41.09" cy="-14.125" rx="2.383" ry="0.794"/>
@@ -210,8 +204,7 @@
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="18.84" cy="-10.375" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="33.34" cy="-10.375" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="47.09" cy="-10.375" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-5.7c0.411-0.143,0.665-0.336,0.665-0.55
-			S0.469-6.658,0.058-6.801"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M0.058-5.7c0.411-0.143,0.665-0.336,0.665-0.55    S0.469-6.658,0.058-6.801"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="10.965" cy="-6.25" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="24.715" cy="-6.25" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="38.84" cy="-6.25" rx="2.383" ry="0.794"/>
@@ -219,19 +212,12 @@
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="17.215" cy="-2.375" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="31.465" cy="-2.375" rx="2.383" ry="0.794"/>
 		<ellipse style="fill:none;stroke:#000000;stroke-width:0.3;" cx="44.965" cy="-2.375" rx="2.383" ry="0.794"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-44.717c-0.8,0.128-1.352,0.4-1.352,0.717
-			c0,0.315,0.552,0.588,1.352,0.716"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-53.155c-0.234-0.026-0.483-0.04-0.743-0.04
-			c-1.316,0-2.384,0.356-2.384,0.795c0,0.438,1.067,0.795,2.384,0.795c0.26,0,0.509-0.014,0.743-0.04"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-36.997C54-37.012,53.811-37.02,53.615-37.02
-			c-1.316,0-2.384,0.355-2.384,0.794c0,0.44,1.067,0.795,2.384,0.795c0.196,0,0.386-0.008,0.568-0.022"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-29.899c-1.061,0.08-1.852,0.396-1.852,0.774
-			c0,0.378,0.791,0.693,1.852,0.774"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-21.852c-0.296-0.044-0.624-0.068-0.969-0.068
-			c-1.317,0-2.384,0.355-2.384,0.795c0,0.438,1.067,0.794,2.384,0.794c0.345,0,0.673-0.024,0.969-0.068"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-14.89c-0.997,0.096-1.727,0.401-1.727,0.765
-			c0,0.362,0.729,0.668,1.727,0.763"/>
-		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-6.801c-0.434-0.15-1.043-0.244-1.719-0.244
-			c-1.317,0-2.384,0.355-2.384,0.795c0,0.438,1.067,0.794,2.384,0.794c0.676,0,1.285-0.094,1.719-0.244"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-44.717c-0.8,0.128-1.352,0.4-1.352,0.717    c0,0.315,0.552,0.588,1.352,0.716"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-53.155c-0.234-0.026-0.483-0.04-0.743-0.04    c-1.316,0-2.384,0.356-2.384,0.795c0,0.438,1.067,0.795,2.384,0.795c0.26,0,0.509-0.014,0.743-0.04"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-36.997C54-37.012,53.811-37.02,53.615-37.02    c-1.316,0-2.384,0.355-2.384,0.794c0,0.44,1.067,0.795,2.384,0.795c0.196,0,0.386-0.008,0.568-0.022"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-29.899c-1.061,0.08-1.852,0.396-1.852,0.774    c0,0.378,0.791,0.693,1.852,0.774"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-21.852c-0.296-0.044-0.624-0.068-0.969-0.068    c-1.317,0-2.384,0.355-2.384,0.795c0,0.438,1.067,0.794,2.384,0.794c0.345,0,0.673-0.024,0.969-0.068"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-14.89c-0.997,0.096-1.727,0.401-1.727,0.765    c0,0.362,0.729,0.668,1.727,0.763"/>
+		<path style="fill:none;stroke:#000000;stroke-width:0.3;" d="M54.183-6.801c-0.434-0.15-1.043-0.244-1.719-0.244    c-1.317,0-2.384,0.355-2.384,0.795c0,0.438,1.067,0.794,2.384,0.794c0.676,0,1.285-0.094,1.719-0.244"/>
 	</g>
 </svg>

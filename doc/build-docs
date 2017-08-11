@@ -14,7 +14,7 @@ for cmd in "${cmds[@]}"; do
 done
 
 do-html() {
-  pandoc --template=skeleton.html -s -o dist/index.html FGDC-documentation.md
+  pandoc --template=skeleton.html --section-divs -s -o dist/index.html FGDC-documentation.md
 }
 
 do-scripts() {

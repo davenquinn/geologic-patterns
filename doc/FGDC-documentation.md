@@ -1,28 +1,52 @@
+<div id='leader'>
+![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
+
+<ul class='quick-links'>
+  <li><a href='#pattern-reference'>Map patterns</a></li>
+  <li><a href='#series-600'>Lithology patterns</a></li>
+  <li><a href='https://github.com/davenquinn/geologic-patterns'><i class='icon-github'></i> Github</a></li>
+  <li><a href='https://pubs.usgs.gov/tm/2006/11A02/'>FGDC standard</a></li>
+</ul>
+</div>
+
+<div id="main-content">
+
+<section>
 
 The [FGDC Digital Cartographic Standard for Geologic Map
 Symbolization][fgdc_std], released in 2006, provides guidance and
 assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
-This [repository][repository] contains the entire FGDC pattern library extracted to
-SVG and PNG, for use on the modern web. This can be paired with collections of
+This repository contains the FGDC library of 480 map and lithologic
+patterns extracted to
+SVG and PNG, for use on the modern web. This can be paired with other collections of
 linework and geologic symbols for the construction of slick geologic maps and
-stratigraphic columns. There are 480 individual patterns – scroll down
-to the [*pattern reference*][#pattern-reference] below the fold to see
-them all!
+stratigraphic columns.
 
-![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
+### Credits
+
+<ul class='author-date'>
+  <li>Created by <a class='author' href="http://davenquinn.com">Daven Quinn</a> on <span class='date'>July 15, 2017</span></li>
+  <li>Fixes by Kelsey Ciarrocca at the USGS integrated on
+   <span class='date'>August 10, 2017</span></li>
+  <li>Valuable input and guidance from Chris Garrity,  Taryn Lindquist,
+and David Soller at the USGS</li>
+
+</ul>
+
+</section>
 
 ## Motivation
+
+<section>
 
 The FGDC manual is a work of thoughtful cartographic design,
 and the symbology is unmatched in quality and breadth.
 Patterns are [available](https://pubs.usgs.gov/tm/2006/11A02/) as
-`.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style` file.
-
-However, the first-party products are difficult to use effectively.
-The formats provided by the USGS are tied to Adobe Illustrator
-and the ESRI ecosystem, and are increasingly dated -- recent
+`.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style`.
+However, the original formats are tied to the Adobe
+and ESRI ecosystems, and are increasingly dated -- recent
 versions of Adobe Illustrator CC have difficulty importing pattern
 swatches from the files provided on the FGDC site.
 
@@ -35,7 +59,11 @@ a [catalog of brushes][brushes] for the iPad drawing app
 [*Procreate*][procreate], which supports the sketching
 of geologic maps and stratigraphic columns.
 
+</section>
+
 ## Usage
+
+<section>
 
 This repository includes the complete set of FGDC
 fill patterns, usable within modern web standards.
@@ -65,7 +93,7 @@ use the symbols based on common lithology names.
 
 ### Procreate brushes
 
-This product has been processed into a set of brushes for the iPad drawing
+This product has been processed into a [set of brushes][brushes] for the iPad drawing
 program **Procreate**, enabling the drawing of symbology into
 stratigraphic columns and maps. These brushes can be individually
 imported into Procreate and used from the *Imported Brushes* panel. Some
@@ -73,11 +101,15 @@ limitations:
 
 - The pixel dimensions of the pattern stamp can only be changed by
   modifying the brush, using the *Zoom* and *Scale* settings in the
-  **Grain** panel of the brush properties window.
+  *Grain* panel of the brush properties window.
 - The brushes can only be generated on MacOS, due to the platform-specific
   `plutil` executable.
 
+</section>
+
 ## Prior art
+
+<section>
 
 - The [FGDC standards](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php), of course!
 - Ryan Clark's [`geocarto`][geocarto], which
@@ -94,15 +126,19 @@ There is some overlap between this project and other distillations shown above, 
 compilations are focused on linework symbols. It could be useful to bring some of these under the same umbrella for simplicity,
 or have a separate parallel repository that is the canonical source of linework symbology.
 
+</section>
+
 ## Next steps
+
+<section>
 
 I would like to use this repository as the centerpiece of an
 authoritative collection of resources for geologic symbology. This could
 mean several things:
 
 - Add aliases to commonly used lithologic patterns
+- Add a mechanism for dealing with FGDC colors
 - Incorporating the linework and point symbology part of the FGDC standards
-  (similar to the implementations in listed above)
 - Add derived products that can speed adoption of styles on multiple
   platforms
     - QGIS styles
@@ -111,7 +147,7 @@ mean several things:
     - CartoCSS styles
 
 The FGDC standard is comprehensive, but if there is community interest,
-we could incorporate other symbology into this set.
+other symbology could be incorporated into the set.
 
 [fgdc_std]: https://ngmdb.usgs.gov/fgdc_gds/geolsymstd/download.php
 [geocarto]: https://github.com/rclark/geocarto
@@ -119,10 +155,14 @@ we could incorporate other symbology into this set.
 [brushes]: https://github.com/davenquinn/geologic-patterns/releases/latest
 [repository]: https://github.com/davenquinn/geologic-patterns
 
+</section>
+
+</div>
+
 # Pattern reference
 
 ## Index
 
-<ul id="contents"></ul>
+<ul id="contents" class='quick-links'></ul>
 
 <div id=patterns></div>

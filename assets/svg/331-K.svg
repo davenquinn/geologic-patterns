@@ -1,98 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="13.857" height="13.858" viewBox="0.276 -13.933 13.857 13.858">
-	<g>
-		<rect x="0.276" y="-13.933" style="fill:none;" width="13.857" height="13.858"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="4.636,-13.933 3.733,-12.135 2.83,-13.933 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="6.293,-13.933 7.197,-12.135 8.1,-13.933 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="9.758,-13.933 10.662,-12.135 11.565,-13.933 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="13.223,-13.933 14.127,-12.135 14.133,-12.148 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-12.148" x2="1.172" y2="-13.933"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.733" y1="-12.119" x2="3.734" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-12.121" x2="3.732" y2="-12.121"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="3.733,-12.119 2,-8.671 0.276,-12.104 		"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="0.276,-12.121 0.267,-12.121 0.276,-12.104 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.196" y1="-12.121" x2="3.734" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.197" y1="-12.119" x2="7.198" y2="-12.121"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="7.197,-12.119 5.465,-8.671 3.733,-12.119 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.733" y1="-12.119" x2="3.732" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.734" y1="-12.121" x2="3.732" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.198" y1="-12.121" x2="10.66" y2="-12.121"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="7.197,-12.119 8.929,-8.671 10.661,-12.118 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.196" y1="-12.121" x2="7.197" y2="-12.119"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.661" y1="-12.118" x2="10.663" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.196" y1="-12.121" x2="7.198" y2="-12.121"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="10.661,-12.118 12.394,-8.671 14.127,-12.121
-			10.663,-12.121 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.661" y1="-12.118" x2="10.66" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.663" y1="-12.121" x2="10.66" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.465" y1="-8.653" x2="5.466" y2="-8.656"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="5.465,-8.653 3.733,-5.207 2.001,-8.653 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.463" y1="-8.656" x2="2.002" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2" y1="-8.656" x2="2.001" y2="-8.653"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="8.929,-8.654 7.197,-5.207 5.465,-8.653 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.929" y1="-8.654" x2="8.93" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.463" y1="-8.656" x2="5.465" y2="-8.653"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.928" y1="-8.656" x2="5.466" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.463" y1="-8.656" x2="5.466" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.395" y1="-8.656" x2="12.394" y2="-8.653"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.928" y1="-8.656" x2="8.929" y2="-8.654"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="8.929,-8.654 10.662,-5.207 12.394,-8.653 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.93" y1="-8.656" x2="12.392" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.928" y1="-8.656" x2="8.93" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.395" y1="-8.656" x2="14.133" y2="-8.656"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="14.133,-5.221 14.127,-5.207 12.394,-8.653 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.392" y1="-8.656" x2="12.394" y2="-8.653"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.395" y1="-8.656" x2="12.392" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2" y1="-8.656" x2="0.276" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-5.221" x2="2.001" y2="-8.653"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2.002" y1="-8.656" x2="2.001" y2="-8.653"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2.002" y1="-8.656" x2="2" y2="-8.656"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.733" y1="-5.189" x2="3.734" y2="-5.191"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="3.733,-5.189 2,-1.742 0.276,-5.174 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.732" y1="-5.191" x2="0.276" y2="-5.191"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="0.276,-5.191 0.267,-5.191 0.276,-5.174 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.734" y1="-5.191" x2="7.196" y2="-5.191"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.732" y1="-5.191" x2="3.733" y2="-5.189"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.197" y1="-5.189" x2="7.198" y2="-5.191"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="3.733,-5.189 5.465,-1.742 7.197,-5.189 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="3.732" y1="-5.191" x2="3.734" y2="-5.191"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="7.197,-5.189 8.929,-1.742 10.661,-5.188 		"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.661" y1="-5.188" x2="10.663" y2="-5.191"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.66" y1="-5.191" x2="7.198" y2="-5.191"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.197" y1="-5.189" x2="7.196" y2="-5.191"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="7.198" y1="-5.191" x2="7.196" y2="-5.191"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.661" y1="-5.188" x2="10.66" y2="-5.191"/>
-		<polyline style="fill:none;stroke:#000000;stroke-width:0.33;" points="10.661,-5.188 12.394,-1.742 14.127,-5.191 10.663,-5.191
-					"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="10.663" y1="-5.191" x2="10.66" y2="-5.191"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.463" y1="-1.733" x2="2.002" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2" y1="-1.733" x2="2.001" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.465" y1="-1.73" x2="4.633" y2="-0.074"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2.833" y1="-0.074" x2="2.001" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.466" y1="-1.733" x2="5.465" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="6.297" y1="-0.074" x2="5.465" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.463" y1="-1.733" x2="5.465" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.93" y1="-1.733" x2="8.929" y2="-1.731"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.929" y1="-1.731" x2="8.097" y2="-0.074"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.928" y1="-1.733" x2="5.466" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="5.463" y1="-1.733" x2="5.466" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.395" y1="-1.733" x2="12.394" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.394" y1="-1.73" x2="11.561" y2="-0.074"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="9.762" y1="-0.074" x2="8.929" y2="-1.731"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.392" y1="-1.733" x2="8.93" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.928" y1="-1.733" x2="8.929" y2="-1.731"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="8.928" y1="-1.733" x2="8.93" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="13.226" y1="-0.074" x2="12.394" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.392" y1="-1.733" x2="12.394" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="14.133" y1="-1.733" x2="12.395" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="12.392" y1="-1.733" x2="12.395" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2" y1="-1.733" x2="0.276" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2.002" y1="-1.733" x2="2.001" y2="-1.73"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2.001" y1="-1.73" x2="1.169" y2="-0.074"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="2.002" y1="-1.733" x2="2" y2="-1.733"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-12.148" x2="0.276" y2="-12.121"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-5.191" x2="0.276" y2="-5.174"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-12.121" x2="0.276" y2="-12.104"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.33;" x1="0.276" y1="-5.191" x2="0.276" y2="-5.221"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.857" height="13.858">
+  <defs>
+    <path id="a" d="M0 0h13.86v13.86H0z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <path fill="none" stroke="#000" stroke-width=".33" d="M4.36 0l-.9 1.8-.9-1.8M6.02 0l.9 1.8.9-1.8M9.48 0l.9 1.8.9-1.8M12.95 0l.9 1.8v-.02M0 1.78L.9 0M3.46 1.8M0 1.8h3.46M3.46 1.8L1.73 5.27 0 1.83M0 1.8v.03M6.92 1.8H3.46M6.92 1.8M6.92 1.8L5.2 5.27 3.45 1.8M3.46 1.8M3.46 1.8M6.92 1.8h3.46M6.92 1.8l1.73 3.46 1.73-3.45M6.92 1.8M10.38 1.8M6.92 1.8M10.38 1.8l1.74 3.46 1.73-3.45H10.4M10.38 1.8M10.4 1.8h-.02M5.2 5.28M5.2 5.28L3.45 8.73 1.73 5.28M5.2 5.28H1.72M1.72 5.28M8.65 5.28L6.92 8.73 5.2 5.28M8.65 5.28M5.2 5.28M8.65 5.28H5.2M5.2 5.28M12.12 5.28M8.65 5.28M8.65 5.28l1.74 3.45 1.72-3.45M8.65 5.28h3.47M8.65 5.28M12.12 5.28h1.74M13.86 8.7v.03L12.1 5.28M12.12 5.28M12.12 5.28M1.72 5.28H0M0 8.7L1.73 5.3M1.73 5.28M1.73 5.28M3.46 8.74M3.46 8.74L1.73 12.2 0 8.75M3.46 8.74H0M0 8.74v.02M3.46 8.74h3.46M3.46 8.74M6.92 8.74M3.46 8.74L5.2 12.2 6.9 8.73M3.46 8.74M6.92 8.74l1.73 3.45 1.73-3.46M10.38 8.74M10.38 8.74H6.92M6.92 8.74M6.92 8.74M10.38 8.74M10.38 8.74l1.74 3.45 1.73-3.46H10.4M10.4 8.74h-.02M5.2 12.2H1.72M1.72 12.2M5.2 12.2l-.84 1.66M2.56 13.86l-.83-1.66M5.2 12.2M6.02 13.86L5.2 12.2M5.2 12.2M8.65 12.2M8.65 12.2l-.83 1.66M8.65 12.2H5.2M5.2 12.2M12.12 12.2M12.12 12.2l-.83 1.66M9.5 13.86l-.85-1.66M12.12 12.2H8.65M8.65 12.2M8.65 12.2M12.95 13.86l-.83-1.66M12.12 12.2M13.86 12.2h-1.74M12.12 12.2M1.72 12.2H0M1.73 12.2M1.73 12.2L.9 13.86M1.73 12.2M0 1.78v.03M0 8.74v.02M0 1.8v.03M0 8.74V8.7" clip-path="url(#b)"/>
 </svg>

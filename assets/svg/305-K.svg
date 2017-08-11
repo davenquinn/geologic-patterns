@@ -1,42 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="22.497" height="22.497" viewBox="1.86 -24.357 22.497 22.497">
-	<g>
-		<rect x="1.86" y="-24.357" style="fill:none;" width="22.497" height="22.497"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="3.666" y1="-2.547" x2="7.377" y2="-4.976"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="3.428" y1="-5.346" x2="1.86" y2="-5.987"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="10.415" y1="-4.433" x2="7.814" y2="-7.271"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="8.588" y1="-8.958" x2="11.982" y2="-10.646"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="11.982" y1="-15.131" x2="9.502" y2="-11.995"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="5.353" y1="-12.868" x2="8.052" y2="-10.526"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="3.765" y1="-9.077" x2="1.959" y2="-12.67"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="10.573" y1="-7.033" x2="14.702" y2="-5.346"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="5.909" y1="-9.752" x2="5.115" y2="-5.921"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="7.443" y1="-16.342" x2="3.666" y2="-14.018"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="1.86" y1="-17.457" x2="3.428" y2="-16.816"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="7.814" y1="-18.742" x2="10.415" y2="-15.903"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="11.982" y1="-22.116" x2="8.588" y2="-20.429"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="10.207" y1="-24.357" x2="9.502" y2="-23.465"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="5.353" y1="-24.339" x2="8.052" y2="-21.997"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="3.765" y1="-20.548" x2="1.959" y2="-24.14"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="14.702" y1="-16.816" x2="10.573" y2="-18.503"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="5.909" y1="-21.223" x2="5.115" y2="-17.392"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="18.63" y1="-4.977" x2="14.92" y2="-2.547"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="21.668" y1="-4.433" x2="19.068" y2="-7.271"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="19.842" y1="-8.958" x2="23.236" y2="-10.646"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="23.236" y1="-15.131" x2="20.755" y2="-11.995"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="16.607" y1="-12.868" x2="19.306" y2="-10.526"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="13.213" y1="-12.67" x2="15.019" y2="-9.077"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="24.356" y1="-5.999" x2="21.827" y2="-7.033"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="17.163" y1="-9.752" x2="16.369" y2="-5.921"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="18.617" y1="-16.468" x2="14.92" y2="-14.018"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="21.668" y1="-15.903" x2="19.068" y2="-18.742"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="19.842" y1="-20.429" x2="23.236" y2="-22.116"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="20.755" y1="-23.465" x2="21.46" y2="-24.357"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="11.982" y1="-4.138" x2="10.181" y2="-1.86"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="23.236" y1="-4.138" x2="21.435" y2="-1.86"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="16.607" y1="-24.339" x2="19.306" y2="-21.997"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="13.213" y1="-24.14" x2="15.019" y2="-20.548"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="21.827" y1="-18.503" x2="24.356" y2="-17.47"/>
-		<line style="fill:none;stroke:#000000;stroke-width:0.43;" x1="17.163" y1="-21.223" x2="16.369" y2="-17.392"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.497" height="22.497">
+  <defs>
+    <path id="a" d="M0 0h22.5v22.5H0z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <path fill="none" stroke="#000" stroke-width=".43" d="M1.8 21.8l3.72-2.42M1.57 19L0 18.38M8.55 19.92l-2.6-2.83M6.73 15.4l3.4-1.7M10.12 9.23l-2.48 3.13M3.5 11.5l2.7 2.33M1.9 15.28l-1.8-3.6M8.7 17.32l4.14 1.7M4.05 14.6l-.8 3.84M5.58 8.02L1.8 10.34M0 6.9l1.57.64M5.96 5.62l2.6 2.83M10.12 2.24l-3.4 1.7M8.35 0l-.7.9M3.5.02l2.7 2.34M1.9 3.8L.1.23M12.84 7.54L8.7 5.84M4.05 3.13l-.8 3.83M16.77 19.38l-3.7 2.43M19.8 19.92l-2.6-2.83M17.98 15.4l3.4-1.7M21.38 9.23l-2.48 3.13M14.75 11.5l2.7 2.33M11.35 11.7l1.8 3.58M22.5 18.36l-2.53-1.04M15.3 14.6l-.8 3.84M16.76 7.9l-3.7 2.44M19.8 8.45l-2.6-2.83M17.98 3.93l3.4-1.7M18.9.9l.7-.9M10.12 20.22l-1.8 2.28M21.38 20.22l-1.8 2.28M14.75.02l2.7 2.34M11.35.22l1.8 3.6M19.97 5.85L22.5 6.9M15.3 3.13l-.8 3.83" clip-path="url(#b)"/>
 </svg>

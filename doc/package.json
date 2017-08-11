@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "coffeeify": "^2.1.0",
-    "coffeescript": "^2.0.0-beta3",
+    "coffeescript": "next",
     "d3-collection": "^1.0.4",
     "d3-request": "^1.0.5",
     "d3-selection": "^1.1.0",

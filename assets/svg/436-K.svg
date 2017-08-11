@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" xml:space="preserve" width="22.449" height="25.921" viewBox="1.436 -26.775 22.449 25.921">
-	<g>
-		<rect x="1.436" y="-26.775" style="fill:none;" width="22.449" height="25.921"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="20.1" y1="-24.986" x2="20.149" y2="-24.986"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="12.913" y1="-25.299" x2="12.961" y2="-25.299"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="5.1" y1="-24.986" x2="5.149" y2="-24.986"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="1.35" y1="-26.799" x2="1.399" y2="-26.799"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="1.788" y1="-23.361" x2="1.836" y2="-23.361"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="9.1" y1="-23.361" x2="9.149" y2="-23.361"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="16.35" y1="-22.861" x2="16.399" y2="-22.861"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="20.1" y1="-20.924" x2="20.149" y2="-20.924"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="20.538" y1="-17.111" x2="20.586" y2="-17.111"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="15.975" y1="-18.736" x2="16.024" y2="-18.736"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="12.6" y1="-20.736" x2="12.649" y2="-20.736"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="7.975" y1="-18.861" x2="8.024" y2="-18.861"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="4.663" y1="-20.861" x2="4.711" y2="-20.861"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="1.85" y1="-18.736" x2="1.899" y2="-18.736"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="5.225" y1="-16.174" x2="5.274" y2="-16.174"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="12.35" y1="-16.174" x2="12.399" y2="-16.174"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="16.975" y1="-15.049" x2="17.024" y2="-15.049"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="19.913" y1="-12.424" x2="19.961" y2="-12.424"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="13.663" y1="-12.424" x2="13.711" y2="-12.424"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="9.1" y1="-14.174" x2="9.149" y2="-14.174"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="5.475" y1="-11.861" x2="5.524" y2="-11.861"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="1.288" y1="-14.236" x2="1.336" y2="-14.236"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="0.85" y1="-9.799" x2="0.899" y2="-9.799"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="1.85" y1="-5.549" x2="1.899" y2="-5.549"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="4.725" y1="-7.861" x2="4.774" y2="-7.861"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="4.85" y1="-3.299" x2="4.899" y2="-3.299"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="9.1" y1="-6.486" x2="9.149" y2="-6.486"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="10.163" y1="-10.299" x2="10.211" y2="-10.299"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="13.225" y1="-7.861" x2="13.274" y2="-7.861"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="17.038" y1="-9.799" x2="17.086" y2="-9.799"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="20.475" y1="-7.299" x2="20.524" y2="-7.299"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="20.538" y1="-3.424" x2="20.586" y2="-3.424"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="16.35" y1="-5.549" x2="16.399" y2="-5.549"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="12.975" y1="-3.361" x2="13.024" y2="-3.361"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="23.85" y1="-26.799" x2="23.899" y2="-26.799"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="24.288" y1="-23.361" x2="24.336" y2="-23.361"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="24.35" y1="-18.736" x2="24.399" y2="-18.736"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="23.788" y1="-14.236" x2="23.836" y2="-14.236"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="23.35" y1="-9.799" x2="23.399" y2="-9.799"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="24.35" y1="-5.549" x2="24.399" y2="-5.549"/>
-
-			<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="17.403" y1="-1.628" x2="17.452" y2="-1.628"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="8.965" y1="-1.815" x2="9.014" y2="-1.815"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="1.403" y1="-0.878" x2="1.452" y2="-0.878"/>
-		<line style="fill:none;stroke:#000000;stroke-width:1.7;stroke-linecap:round;" x1="23.85" y1="-0.85" x2="23.899" y2="-0.85"/>
-	</g>
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.449" height="25.921">
+  <defs>
+    <path id="a" d="M0 0h22.45v25.92H0z"/>
+  </defs>
+  <clipPath id="b">
+    <use xlink:href="#a" overflow="visible"/>
+  </clipPath>
+  <path fill="none" stroke="#000" stroke-width="1.7" d="M18.66 1.8h.05M11.48 1.48h.04M3.66 1.8h.05M-.1-.02h.06M.35 3.4H.4M7.66 3.4h.05M14.9 3.9h.06M18.66 5.85h.05M19.1 9.66h.05M14.54 8.04h.05M11.16 6.04h.05M6.54 7.9h.05M3.23 5.9h.04M.4 8.04h.06M3.8 10.6h.04M10.9 10.6h.06M15.54 11.73h.05M18.48 14.35h.04M12.23 14.35h.04M7.66 12.6h.05M4.04 14.9h.05M-.15 12.54h.05M-.6 16.98h.06M.4 21.23h.06M3.3 18.9h.04M3.4 23.48h.06M7.66 20.3h.05M8.73 16.48h.04M11.8 18.9h.04M15.6 16.98h.05M19.04 19.48h.05M19.1 23.35h.05M14.9 21.23h.06M11.54 23.4h.05M22.4-.02h.06M22.85 3.4h.05M22.9 8.04h.06M22.35 12.54h.05M21.9 16.98h.06M22.9 21.23h.06M15.97 25.15h.05M7.53 24.96h.05M-.03 25.9h.05M22.4 25.93h.06" clip-path="url(#b)" stroke-linecap="round"/>
 </svg>
