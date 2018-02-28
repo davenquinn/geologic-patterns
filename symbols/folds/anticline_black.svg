@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+ 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="15.591px" height="15.59px" viewBox="0 0 15.591 15.59" enable-background="new 0 0 15.591 15.59" xml:space="preserve">
+<g>
+	<g>
+		<line stroke="#000000" stroke-width="0.576" x1="7.847" y1="2.879" x2="7.847" y2="12.733"/>
+	</g>
+	<g>
+		<polygon stroke="#000000" stroke-width="0.576" points="7.847,12.319 6.392,11.649 7.847,14.891 9.196,11.649 		"/>
+	</g>
+	<g>
+		<polygon stroke="#000000" stroke-width="0.576" points="7.85,3.271 6.395,3.941 7.85,0.699 9.199,3.941 		"/>
+	</g>
+</g>
+</svg>
