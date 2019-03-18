@@ -10,5 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daven Quinn",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "coffee-babel": "^1.0.5"
+  }
 }
