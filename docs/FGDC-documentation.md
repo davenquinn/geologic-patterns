@@ -1,3 +1,7 @@
+---
+title: FGDC Geologic Patterns for the Web
+---
+
 <div id='leader'>
 ![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
 
@@ -11,10 +15,10 @@
 
 <div id="main-content">
 
-<section>
+<section class="main">
 
-The [FGDC Digital Cartographic Standard for Geologic Map
-Symbolization][fgdc_std], released in 2006, provides guidance and
+The [FGDC Digital Cartographic Standard for Geologic Map Symbolization][fgdc_std],
+released in 2006, provides guidance and
 assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
@@ -32,14 +36,13 @@ stratigraphic columns.
    <span class='date'>August 10, 2017</span></li>
   <li>Valuable input and guidance from Chris Garrity,  Taryn Lindquist,
 and David Soller at the USGS</li>
-
 </ul>
 
 </section>
 
 ## Motivation
 
-<section>
+<section class="main">
 
 The FGDC manual is a work of thoughtful cartographic design,
 and the symbology is unmatched in quality and breadth.
@@ -63,7 +66,7 @@ of geologic maps and stratigraphic columns.
 
 ## Usage
 
-<section>
+<section class="main">
 
 This repository includes the complete set of FGDC
 fill patterns, usable within modern web standards.
@@ -88,8 +91,8 @@ div.sandstone {
 }
 ```
 
-In the future I may add a CSS stylesheet and/or Javascript API that can be used to quickly
-use the symbols based on common lithology names.
+In the future, a CSS stylesheet and/or Javascript API may be added to quickly
+access the symbols based on common lithology names.
 
 ### Procreate brushes
 
@@ -109,7 +112,7 @@ limitations:
 
 ## Prior art
 
-<section>
+<section class="main">
 
 - The [FGDC standards](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php), of course!
 - Ryan Clark's [`geocarto`][geocarto], which
@@ -130,7 +133,7 @@ or have a separate parallel repository that is the canonical source of linework 
 
 ## Next steps
 
-<section>
+<section class="main">
 
 I would like to use this repository as the centerpiece of an
 authoritative collection of resources for geologic symbology. This could
