@@ -1,6 +1,7 @@
 *
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
   box-sizing: border-box
+  line-height: 1.5em
 
 p, ul, pre
   font-size: 1.2rem
@@ -59,8 +60,8 @@ code
     margin-bottom: 0.2em
     span.lighten
       font-weight 400
-      font-style italic
-      padding-left 0.3em
+      //font-style italic
+      //padding-left 0.3em
   margin-bottom: 2em
 
 .date
@@ -72,13 +73,16 @@ code
   padding-left: 0
   display: flex
   flex-direction row
-  justify-content center
+  flex-wrap: wrap
+  margin -0.25em
+  margin-bottom 1em
+  justify-content: center
   li a
     display block
     padding 0.5em 0.8em
   li
     display block
-    margin 0 0.5em
+    margin 0.25em
 
 @media screen and (min-width: 920px)
   #leader
@@ -87,8 +91,7 @@ code
   .quick-links
     flex-shrink 1
     flex-direction column
-    li
-      margin 0.25em 0
+    justify-content: flex-start
     li a
       width inherit
 
@@ -109,18 +112,22 @@ code
 p
   margin-top 0
 
+p, ul
+  break-inside: avoid
+
 h2
   margin-top 2em
 
 
-.figure
+figure
   max-width: 40em
   margin: 0 auto
-  .caption
+  figcaption
     margin-top: 0.2em
     font-style: italic
     font-size: 1em
     color: #888
+    margin-bottom 1em
   img
     border: 3px solid black
 
@@ -170,7 +177,15 @@ h2
       flex-grow: 1
 
 #pattern-reference
-  text-transform: uppercase
+  h1, p.series
+    text-transform: uppercase
+  div.info
+    display flex
+    flex-direction row
+    align-items: baseline;
+    p.note
+      line-height: 1em
+      flex-grow 1
 
 ul#contents
   display: flex

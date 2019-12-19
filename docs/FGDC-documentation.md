@@ -32,10 +32,12 @@ stratigraphic columns.
 
 <ul class='author-date'>
   <li>Created by <a class='author' href="http://davenquinn.com">Daven Quinn</a> on <span class='date'>July 15, 2017</span></li>
-  <li>Fixes by Kelsey Ciarrocca at the USGS integrated on
+  <li>Fixes by Kelsey Ciarrocca (USGS) integrated on
    <span class='date'>August 10, 2017</span></li>
-  <li>Valuable input and guidance from Chris Garrity,  Taryn Lindquist,
-and David Soller at the USGS</li>
+  <li>Valuable input and guidance from Chris Garrity, Taryn Lindquist,
+   and David Soller (USGS)</li>
+ <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> public domain dedication added on <span class='date'>May 24, 2019</span></li>
+ <li>Modernized documentation on <span class='date'>December 18, 2019</span></li>
 </ul>
 
 </section>
@@ -49,7 +51,7 @@ and the symbology is unmatched in quality and breadth.
 Patterns are [available](https://pubs.usgs.gov/tm/2006/11A02/) as
 `.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style`.
 However, the original formats are tied to the Adobe
-and ESRI ecosystems, and are increasingly dated -- recent
+and ESRI ecosystems and, increasingly, dated -- recent
 versions of Adobe Illustrator CC have difficulty importing pattern
 swatches from the files provided on the FGDC site.
 
@@ -141,7 +143,7 @@ mean several things:
 
 - Add aliases to commonly used lithologic patterns
 - Add a mechanism for dealing with FGDC colors
-- Incorporating the linework and point symbology part of the FGDC standards
+- Incorporate the linework and point symbology part of the FGDC standards
 - Add derived products that can speed adoption of styles on multiple
   platforms
     - QGIS styles
