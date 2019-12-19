@@ -28,7 +28,7 @@ SVG and PNG, for use on the modern web. This can be paired with other collection
 linework and geologic symbols for the construction of slick geologic maps and
 stratigraphic columns.
 
-### Credits
+### Credits and change history
 
 <ul class='author-date'>
   <li>Created by <a class='author' href="http://davenquinn.com">Daven Quinn</a> on <span class='date'>July 15, 2017</span></li>
@@ -37,7 +37,7 @@ stratigraphic columns.
   <li>Valuable input and guidance from Chris Garrity, Taryn Lindquist,
    and David Soller (USGS)</li>
  <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> public domain dedication added on <span class='date'>May 24, 2019</span></li>
- <li>Modernized documentation on <span class='date'>December 18, 2019</span></li>
+ <li>Improvements to documentation on <span class='date'>December 18, 2019</span></li>
 </ul>
 
 </section>
@@ -77,7 +77,7 @@ fidelity of the original patterns, and the PNGs are rasterized versions
 that sacrifice some fidelity for flexibility and ease of use. Paletted PNGs, with
 lower fidelity and file size, are also provided.
 
-Using SVGs is a *lot more* rendering work for the browser. Thus,
+SVGs are a *lot more* rendering work for the browser. Thus,
 the **png** versions of these symbols are recommended for most
 uses. For some uses, it may be desirable to downsample the images
 somewhat as well.
