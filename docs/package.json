@@ -22,7 +22,8 @@
   },
   "scripts": {
     "build": "scripts/build-docs",
-    "dev": "scripts/build-docs --watch"
+    "dev": "scripts/build-docs --watch",
+    "deploy": "scripts/deploy"
   },
   "author": "Daven Quinn",
   "license": "CC0"
