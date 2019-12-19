@@ -1,0 +1,8 @@
+#!/bin/bash
+npm run build
+
+if ! type "rclone" > /dev/null; then
+  echo "Please install 'rclone' to deploy"
+fi
+
+rclone copy --progress dist davenquinn-spaces:geologic-patterns

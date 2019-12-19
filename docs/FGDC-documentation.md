@@ -1,3 +1,7 @@
+---
+title: FGDC Geologic Patterns for the Web
+---
+
 <div id='leader'>
 ![A geologic fantasy rendered in Procreate using FGDC pattern brushes](leader.png)
 
@@ -11,10 +15,10 @@
 
 <div id="main-content">
 
-<section>
+<section class="main">
 
-The [FGDC Digital Cartographic Standard for Geologic Map
-Symbolization][fgdc_std], released in 2006, provides guidance and
+The [FGDC Digital Cartographic Standard for Geologic Map Symbolization][fgdc_std],
+released in 2006, provides guidance and
 assets for the preparation of geologic maps. It includes a large array
 of reference styles for geologic linework and map symbology.
 
@@ -24,29 +28,30 @@ SVG and PNG, for use on the modern web. This can be paired with other collection
 linework and geologic symbols for the construction of slick geologic maps and
 stratigraphic columns.
 
-### Credits
+### Credits and change history
 
 <ul class='author-date'>
   <li>Created by <a class='author' href="http://davenquinn.com">Daven Quinn</a> on <span class='date'>July 15, 2017</span></li>
-  <li>Fixes by Kelsey Ciarrocca at the USGS integrated on
+  <li>Fixes by Kelsey Ciarrocca (USGS) integrated on
    <span class='date'>August 10, 2017</span></li>
-  <li>Valuable input and guidance from Chris Garrity,  Taryn Lindquist,
-and David Soller at the USGS</li>
-
+  <li>Valuable input and guidance from Chris Garrity, Taryn Lindquist,
+   and David Soller (USGS)</li>
+ <li><a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0</a> public domain dedication added on <span class='date'>May 24, 2019</span></li>
+ <li>Improvements to documentation on <span class='date'>December 18, 2019</span></li>
 </ul>
 
 </section>
 
 ## Motivation
 
-<section>
+<section class="main">
 
 The FGDC manual is a work of thoughtful cartographic design,
 and the symbology is unmatched in quality and breadth.
 Patterns are [available](https://pubs.usgs.gov/tm/2006/11A02/) as
 `.eps` and `.pdf` files, and a subset is packaged as an ESRI ArcGIS `*.style`.
 However, the original formats are tied to the Adobe
-and ESRI ecosystems, and are increasingly dated -- recent
+and ESRI ecosystems and, increasingly, dated -- recent
 versions of Adobe Illustrator CC have difficulty importing pattern
 swatches from the files provided on the FGDC site.
 
@@ -63,7 +68,7 @@ of geologic maps and stratigraphic columns.
 
 ## Usage
 
-<section>
+<section class="main">
 
 This repository includes the complete set of FGDC
 fill patterns, usable within modern web standards.
@@ -72,7 +77,7 @@ fidelity of the original patterns, and the PNGs are rasterized versions
 that sacrifice some fidelity for flexibility and ease of use. Paletted PNGs, with
 lower fidelity and file size, are also provided.
 
-Using SVGs is a *lot more* rendering work for the browser. Thus,
+SVGs are a *lot more* rendering work for the browser. Thus,
 the **png** versions of these symbols are recommended for most
 uses. For some uses, it may be desirable to downsample the images
 somewhat as well.
@@ -88,8 +93,8 @@ div.sandstone {
 }
 ```
 
-In the future I may add a CSS stylesheet and/or Javascript API that can be used to quickly
-use the symbols based on common lithology names.
+In the future, a CSS stylesheet and/or Javascript API may be added to quickly
+access the symbols based on common lithology names.
 
 ### Procreate brushes
 
@@ -109,7 +114,7 @@ limitations:
 
 ## Prior art
 
-<section>
+<section class="main">
 
 - The [FGDC standards](https://ngmdb.usgs.gov/fgdc_gds/geolsymstd.php), of course!
 - Ryan Clark's [`geocarto`][geocarto], which
@@ -130,7 +135,7 @@ or have a separate parallel repository that is the canonical source of linework 
 
 ## Next steps
 
-<section>
+<section class="main">
 
 I would like to use this repository as the centerpiece of an
 authoritative collection of resources for geologic symbology. This could
@@ -138,7 +143,7 @@ mean several things:
 
 - Add aliases to commonly used lithologic patterns
 - Add a mechanism for dealing with FGDC colors
-- Incorporating the linework and point symbology part of the FGDC standards
+- Incorporate the linework and point symbology part of the FGDC standards
 - Add derived products that can speed adoption of styles on multiple
   platforms
     - QGIS styles
