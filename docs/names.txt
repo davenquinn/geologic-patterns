@@ -69,7 +69,7 @@
 671  Interbedded ripple-bedded sandstone and shale
 672  Interbedded shale and silty limestone (shale dominant)
 673  Interbedded shale and limestone (shale dominant) (1st option)
-674  Interbedded shaleand limestone (shale dominant) (2nd option)
+674  Interbedded shale and limestone (shale dominant) (2nd option)
 675  Interbedded calcareous shale and limestone (shale dominant)
 676  Interbedded silty limestone and shale
 677  Interbedded limestone and shale (1st option)
