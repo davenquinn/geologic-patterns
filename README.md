@@ -1,6 +1,6 @@
 # FGDC geologic patterns for the web
 
-![Pattern example](doc/leader.png)
+![Pattern example](docs/leader.png)
 
 The [**FGDC Digital Cartographic Standard for Geologic Map
 Symbolization**][fgdc_std], released in 2006, provides guidance and
