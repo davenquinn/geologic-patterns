@@ -7,8 +7,16 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mkdir -p output && ts-node --transpile-only scripts/generate-spritesheet.ts"
   },
   "author": "Daven Quinn",
-  "license": "CC0"
+  "license": "CC0",
+  "devDependencies": {
+    "@mapbox/spritezero": "^8.0.0",
+    "ts-node": "^10.8.0"
+  },
+  "dependencies": {
+    "glob": "^8.0.3"
+  }
 }
