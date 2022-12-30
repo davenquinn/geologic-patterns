@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="56.693" height="56.693" viewBox="0.009 -56.693 56.693 56.693">
-	<g>
-		<rect x="0.009" y="-56.693" style="fill:none;" width="56.693" height="56.693"/>
-		<rect x="0" y="-56.693" style="fill:#F69780;" width="5.669" height="56.693"/>
-		<rect x="5.669" y="-56.693" style="fill:#8DCEAB;" width="5.67" height="56.693"/>
-		<rect x="11.339" y="-56.693" style="fill:#F69780;" width="5.669" height="56.693"/>
-		<rect x="17.008" y="-56.693" style="fill:#8DCEAB;" width="5.669" height="56.693"/>
-		<rect x="22.677" y="-56.693" style="fill:#F69780;" width="5.67" height="56.693"/>
-		<rect x="28.347" y="-56.693" style="fill:#8DCEAB;" width="5.669" height="56.693"/>
-		<rect x="34.016" y="-56.693" style="fill:#F69780;" width="5.67" height="56.693"/>
-		<rect x="39.686" y="-56.693" style="fill:#8DCEAB;" width="5.669" height="56.693"/>
-		<rect x="45.354" y="-56.693" style="fill:#F69780;" width="5.669" height="56.693"/>
-		<rect x="51.023" y="-56.693" style="fill:#8DCEAB;" width="5.67" height="56.693"/>
-	</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="56.69" height="56.69" viewBox="0.01 -56.69 56.69 56.69"><path d="M.01-56.69H56.7V0H.01z" style="fill:none"/><path d="M0-56.69h5.67V0H0z" style="fill:#f69780"/><path d="M5.67-56.69h5.67V0H5.67z" style="fill:#8dceab"/><path d="M11.34-56.69h5.67V0h-5.67z" style="fill:#f69780"/><path d="M17.01-56.69h5.67V0h-5.67z" style="fill:#8dceab"/><path d="M22.68-56.69h5.67V0h-5.67z" style="fill:#f69780"/><path d="M28.35-56.69h5.67V0h-5.67z" style="fill:#8dceab"/><path d="M34.02-56.69h5.67V0h-5.67z" style="fill:#f69780"/><path d="M39.69-56.69h5.67V0h-5.67z" style="fill:#8dceab"/><path d="M45.35-56.69h5.67V0h-5.67z" style="fill:#f69780"/><path d="M51.02-56.69h5.67V0h-5.67z" style="fill:#8dceab"/></svg>

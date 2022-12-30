@@ -10,7 +10,7 @@ for cmd in "${cmds[@]}"; do
   fi
 done
 
-svgdir=assets/svg
+svgdir=src
 outdir=assets/png
 pdir=${outdir}-uncompressed
 
