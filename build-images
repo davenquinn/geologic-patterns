@@ -21,6 +21,7 @@ for f in $svgdir/*.svg; do
   out=${pdir}/${fn}
   quant=$outdir/$fn
 
+  # Lint and fix SVGs
   # Pretty-print xml and save old version in case of errors
   oldf=$f.dirty
   mv $f $oldf

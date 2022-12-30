@@ -1,6 +1,6 @@
 {
   "name": "geologic-patterns",
-  "version": "1.0.0",
+  "version": "2.0.0-dev1",
   "description": "Geologic pattern swatches based on the FGDC symbology",
   "main": "index.js",
   "directories": {
@@ -10,5 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Daven Quinn",
-  "license": "CC0"
+  "license": "CC0",
+  "devDependencies": {
+    "imagemin": "^8.0.1",
+    "imgcat": "^2.3.0",
+    "pngquant": "^4.1.0",
+    "svgo": "^3.0.2"
+  }
 }
