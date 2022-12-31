@@ -15,7 +15,9 @@
   "devDependencies": {
     "imagemin": "^8.0.1",
     "imgcat": "^2.3.0",
+    "parcel": "^2.8.2",
     "pngquant": "^4.1.0",
     "svgo": "^3.0.2"
-  }
+  },
+  "packageManager": "yarn@3.3.1"
 }
