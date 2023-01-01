@@ -2,5 +2,13 @@ FGDCgeostdTM11A2_PattCh.ai
 node_modules
 doc/dist
 *.zip
+
+# Built files
 procreate-brushes/build
 assets/png-uncompressed/*.png
+
+# Yarn PnP files
+.pnp.*
+.yarn/cache
+.yarn/install-state.gz
+.yarn/unplugged

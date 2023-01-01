@@ -4,7 +4,6 @@
   "description": "Docs for FGDC patterns",
   "main": "index.js",
   "dependencies": {
-    "coffeescript": "next",
     "d3-collection": "^1.0.4",
     "d3-request": "^1.0.5",
     "d3-selection": "^1.1.0",
@@ -17,7 +16,6 @@
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "browserify": "^16.5.0",
-    "coffeeify": "^2.1.0",
     "stylus": "^0.54.7"
   },
   "scripts": {

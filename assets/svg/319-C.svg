@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0px" y="0px" xml:space="preserve" width="34.352" height="34.354" viewBox="1.889 -36.047 34.352 34.354">
-	<g>
-		<rect x="1.889" y="-36.047" style="fill:none;" width="34.352" height="34.354"/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="12.562,-22.917 16.937,-22.863    16.873,-23.02 15.002,-26.974   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="4.07,-7.616 8.387,-8.325    8.297,-8.468 5.766,-12.037   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="24.621,-10.744 25.048,-15.098    24.887,-15.047 20.787,-13.521   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="26.578,-21.136 28.902,-24.843    28.735,-24.869 24.384,-25.331   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="10.101,-30.629 8.555,-34.723    8.433,-34.605 5.433,-31.42   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="7.1,-20.049 4.454,-23.534    4.37,-23.387 2.4,-19.48   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="17.222,-15.818 12.9,-16.504    12.941,-16.341 14.22,-12.156   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="22.06,-33.5 21.039,-29.245    21.206,-29.273 25.477,-30.223   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="30.64,-32.907 33.359,-29.479    33.44,-29.628 35.326,-33.576   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="32.224,-16.285 30.933,-12.104    31.101,-12.122 35.424,-12.795   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="28.026,-2.4 30.879,-5.717    30.718,-5.768 26.485,-6.877   "/>
-		<polyline style="fill:none;stroke:#00AEEF;stroke-width:0.7;stroke-linecap:round;" points="17.111,-7.127 15.185,-3.199    15.353,-3.19 19.729,-3.183   "/>
-	</g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="34.35" height="34.35" viewBox="1.89 -36.05 34.35 34.35"><path d="M1.89-36.05h34.35V-1.7H1.89z" style="fill:none"/><path d="m12.56-22.92 4.38.06-.07-.16L15-26.97M4.07-7.62l4.32-.7-.09-.15-2.53-3.57M24.62-10.74l.43-4.36-.16.05-4.1 1.53M26.58-21.14l2.32-3.7-.16-.03-4.36-.46M10.1-30.63l-1.54-4.09-.13.12-3 3.18M7.1-20.05l-2.65-3.48-.08.14-1.97 3.91M17.22-15.82l-4.32-.68.04.16 1.28 4.18M22.06-33.5l-1.02 4.26.17-.03 4.27-.95M30.64-32.91l2.72 3.43.08-.15 1.89-3.95M32.22-16.28l-1.29 4.18.17-.02 4.32-.67M28.03-2.4l2.85-3.32-.16-.05-4.23-1.11M17.11-7.13 15.19-3.2l.16.01 4.38.01" style="fill:none;stroke:#00aeef;stroke-width:.7;stroke-linecap:round"/></svg>
