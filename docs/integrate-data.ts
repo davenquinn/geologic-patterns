@@ -28,7 +28,7 @@ const imageSize = (im) =>
 
 (async function () {
   const asset_names = {};
-  const names = read("names.txt")
+  const names = read(path.join(__dirname, "names.txt"))
     .split("\n")
     .map(function (line) {
       let [id, string] = line.split("  ");
@@ -36,7 +36,7 @@ const imageSize = (im) =>
       return (asset_names[id] = string);
     });
 
-  let assets = await glob("../assets/png/*.png");
+  let assets = await glob(path.join(__dirname, "../assets/png/*.png"));
   assets = assets.map(async function (fn) {
     const size = await imageSize(fn);
     const name = path.basename(fn, ".png");
@@ -59,7 +59,7 @@ const imageSize = (im) =>
     return a.id - b.id;
   });
 
-  const structure = safeLoad(read("data.yaml"));
+  const structure = safeLoad(read(path.join(__dirname, "data.yaml")));
 
   const data = { structure, assets };
 
