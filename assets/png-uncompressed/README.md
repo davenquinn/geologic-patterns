@@ -2,4 +2,5 @@ Full-colorspace 24-bit png files are not packaged in the git
 repository due to size and redundancy with the quantized png
 files.
 
-These files can be generated using the 
+These files can be generated using the `build-images` command in
+the root of the repository.
