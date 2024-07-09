@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "geologic-patterns-brushes"
+version = "1.0.0"
+description = "Create Procreate brushes from FGDC symbols"
+authors = ["Daven Quinn <code@davenquinn.com>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pillow = "^10.4.0"
+cairosvg = "^2.7.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
