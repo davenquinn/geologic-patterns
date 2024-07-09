@@ -5,3 +5,4 @@ doc/dist
 procreate-brushes/build
 assets/png-uncompressed/*.png
 .idea
+package-lock.json

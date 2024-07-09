@@ -10,9 +10,11 @@ from shutil import copyfile, make_archive
 from tempfile import TemporaryDirectory
 # Procreate brushes require an inverted image
 
-indir = Path("../assets/png")
-outdir = Path("./build")
-template = Path("./template")
+here = Path(__file__).parent
+
+indir = Path(here)/"../assets/png-uncompressed"
+outdir = Path(here)/"build"
+template = Path(here)/"template"
 
 outdir.mkdir(exist_ok=True)
 

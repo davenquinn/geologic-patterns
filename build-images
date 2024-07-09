@@ -1,5 +1,9 @@
 #!/usr/bin/env zsh
 
+export PATH=.venv/bin:$PATH
+# https://github.com/Kozea/CairoSVG/issues/392
+# To make CairoSVG work with Homebrew-installed cairo, you need to set the DYLD_LIBRARY_PATH environment variable.
+export DYLD_LIBRARY_PATH="/opt/homebrew/opt/cairo/lib:$DYLD_LIBRARY_PATH"
 # Builds individual svg, uncompressed png, and quantized png images.
 
 cmds=( 'cairosvg' 'imagemin' 'pngquant' 'xmllint')
