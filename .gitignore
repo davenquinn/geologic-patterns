@@ -4,3 +4,4 @@ doc/dist
 *.zip
 procreate-brushes/build
 assets/png-uncompressed/*.png
+.idea
