@@ -1,12 +1,1 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.449" height="25.921">
-  <defs>
-    <path id="a" d="M0 0h22.45v25.92H0z"/>
-  </defs>
-  <clipPath id="b">
-    <use xlink:href="#a" overflow="visible"/>
-  </clipPath>
-  <path d="M0 0h22.45v25.92H0z" clip-path="url(#b)"/>
-  <path fill="none" d="M0 0h22.45v25.92H0z" clip-path="url(#b)"/>
-  <path fill="none" stroke="#fff" stroke-width="1.7" d="M18.66 1.8h.05M11.48 1.48h.04M3.66 1.8h.05M-.1-.02h.06M.35 3.4H.4M7.66 3.4h.05M14.9 3.9h.06M18.66 5.85h.05M19.1 9.66h.05M14.54 8.04h.05M11.16 6.04h.05M6.54 7.9h.05M3.23 5.9h.04M.4 8.04h.06M3.8 10.6h.04M10.9 10.6h.06M15.54 11.73h.05M18.48 14.35h.04M12.23 14.35h.04M7.66 12.6h.05M4.04 14.9h.05M-.15 12.54h.05M-.6 16.98h.06M.4 21.23h.06M3.3 18.9h.04M3.4 23.48h.06M7.66 20.3h.05M8.73 16.48h.04M11.8 18.9h.04M15.6 16.98h.05M19.04 19.48h.05M19.1 23.35h.05M14.9 21.23h.06M11.54 23.4h.05M22.4-.02h.06M22.85 3.4h.05M22.9 8.04h.06M22.35 12.54h.05M21.9 16.98h.06M22.9 21.23h.06M15.97 25.15h.05M7.53 24.96h.05M-.03 25.9h.05M22.4 25.93h.06" clip-path="url(#b)" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.45" height="25.92"><defs><path id="a" d="M0 0h22.45v25.92H0z"/></defs><clipPath id="b"><use xlink:href="#a" overflow="visible"/></clipPath><path d="M0 0h22.45v25.92H0z" clip-path="url(#b)"/><path fill="none" d="M0 0h22.45v25.92H0z" clip-path="url(#b)"/><path fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.7" d="M18.66 1.8h.05m-7.23-.32h.04m-7.86.32h.05M-.1-.02h.06M.35 3.4H.4m7.26 0h.05m7.19.5h.06m3.7 1.95h.05m.39 3.81h.05m-4.61-1.62h.05m-3.43-2h.05M6.54 7.9h.05m-3.36-2h.04M.4 8.04h.06M3.8 10.6h.04m7.06 0h.06m4.58 1.13h.05m2.89 2.62h.04m-6.29 0h.04M7.66 12.6h.05m-3.67 2.3h.05m-4.24-2.36h.05m-.5 4.44h.06m.94 4.25h.06M3.3 18.9h.04m.06 4.58h.06m4.2-3.18h.05m1.02-3.82h.04m3.03 2.42h.04m3.76-1.92h.05m3.39 2.5h.05m.01 3.87h.05m-4.25-2.12h.06m-3.42 2.17h.05M22.4-.02h.06m.39 3.42h.05m0 4.64h.06m-.61 4.5h.05m-.5 4.44h.06m.94 4.25h.06m-6.99 3.92h.05m-8.49-.19h.05m-7.61.94h.05m22.38.03h.06" clip-path="url(#b)"/></svg>
