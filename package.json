@@ -7,8 +7,13 @@
     "doc": "doc"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-images": "./build-images"
   },
   "author": "Daven Quinn",
-  "license": "CC0"
+  "license": "CC0",
+  "dependencies": {
+    "imagemin-cli": "^8.0.0",
+    "imagemin-pngquant": "^10.0.0"
+  }
 }
